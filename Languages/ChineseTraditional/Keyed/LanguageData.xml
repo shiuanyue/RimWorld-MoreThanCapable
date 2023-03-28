@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MTC.MoreThanCapable>More than Capable</MTC.MoreThanCapable>
+  <MTC.MoreThanCapable>綽綽有餘</MTC.MoreThanCapable>
 
-  <MTC.allowFDJ>Allow "Force Do Job" Behavior.</MTC.allowFDJ>
-  <MTC.allowFDJTip>If this is checked, a pawn can be told to do a specific job, even if not assigned to the work type to which the job belongs, so long as they don't actually hate the work type. If you prefer vanilla behavior, and want to be able to tell a pawn to do a specific job only if they are actually assigned to the relevant work type, then uncheck it. Requires restart to apply.</MTC.allowFDJTip>
+  <MTC.allowFDJ>允許“強制執行”。</MTC.allowFDJ>
+  <MTC.allowFDJTip>啟用後，只要殖民者不討厭這項工作即使工作表沒有分配，也可命令其去執行特定工作。如果想使用原版，只有實際被分配工作的殖民者才能命令，則禁用。需要重啟遊戲應用更改。</MTC.allowFDJTip>
 
-  <MTC.obeyLifeStages>Obey Life Stages.</MTC.obeyLifeStages>
-  <MTC.obeyLifeStagesTip>If this is checked, work types that have age requirements will be obeyed.</MTC.obeyLifeStagesTip>
+  <MTC.obeyLifeStages>啟用年齡階段</MTC.obeyLifeStages>
+  <MTC.obeyLifeStagesTip>啟用後，工作類型將有年齡要求。</MTC.obeyLifeStagesTip>
 
-  <MTC.obeyGuestExceptions>Obey Guest Exceptions.</MTC.obeyGuestExceptions>
-  <MTC.obeyGuestExceptionsTip>If this is checked, work types that forbid guests (slaves) from working will be obeyed.</MTC.obeyGuestExceptionsTip>
+  <MTC.obeyGuestExceptions>啟用客人例外</MTC.obeyGuestExceptions>
+  <MTC.obeyGuestExceptionsTip>啟用後，工作類型將禁止客人（奴隸）工作。</MTC.obeyGuestExceptionsTip>
 
-  <MTC.IncapableOf>Hated work types</MTC.IncapableOf>
-  <MTC.CannotDoThisWork>{0} hates doing this kind of work.</MTC.CannotDoThisWork>
+  <MTC.IncapableOf>討厭的工作類型</MTC.IncapableOf>
+  <MTC.CannotDoThisWork>{0} 討厭這種工作。</MTC.CannotDoThisWork>
 
-  <MTC.CannotPrioritizeWorkGiverDisabled>Cannot prioritize (non-violent pawn not assigned a weapon)</MTC.CannotPrioritizeWorkGiverDisabled>
-  <MTC.CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (pawn hates and/or is not assigned to {0})</MTC.CannotPrioritizeNotAssignedToWorkType>
-  <MTC.IsIncapableOfViolenceLower>{0} is non-violent and not assigned a weapon</MTC.IsIncapableOfViolenceLower>
+  <MTC.CannotPrioritizeWorkGiverDisabled>無法優先考慮（未指派武器的非暴力單位）</MTC.CannotPrioritizeWorkGiverDisabled>
+  <MTC.CannotPrioritizeNotAssignedToWorkType>無法優先考慮（討厭的工作/或未分配{0}）</MTC.CannotPrioritizeNotAssignedToWorkType>
+  <MTC.IsIncapableOfViolenceLower>{0} 厭惡暴力，且未被分配武器</MTC.IsIncapableOfViolenceLower>
 
-  <MTC.BadWorkAssignment.Label>Bad work assignment</MTC.BadWorkAssignment.Label>
-  <MTC.BadWorkAssignment.Explanation>At least one pawn has been assigned to a hated work type. In the short term, this probably isn't a problem, but over time, it could lead to extreme unhappiness.</MTC.BadWorkAssignment.Explanation>
+  <MTC.BadWorkAssignment.Label>工作分配錯誤</MTC.BadWorkAssignment.Label>
+  <MTC.BadWorkAssignment.Explanation>至少有一名殖民者被分配到了不喜歡的工作。短期內這可能不是問題，但長期可能會導致極度不滿。</MTC.BadWorkAssignment.Explanation>
 
-  <MTC.AssignedAWeapon.Label>Non-violent pawn assigned a weapon</MTC.AssignedAWeapon.Label>
-  <MTC.AssignedAWeapon.Explanation>A pawn who detests violence has been assigned a weapon. In the short term, this probably isn't a problem, but over time, it could lead to extreme unhappiness.</MTC.AssignedAWeapon.Explanation>
+  <MTC.AssignedAWeapon.Label>武器分配錯誤</MTC.AssignedAWeapon.Label>
+  <MTC.AssignedAWeapon.Explanation>一名厭惡暴力的殖民者被分配了武器。短期內這可能不是問題，但長期來看，可能會導致極度不滿。</MTC.AssignedAWeapon.Explanation>
 
 </LanguageData>
