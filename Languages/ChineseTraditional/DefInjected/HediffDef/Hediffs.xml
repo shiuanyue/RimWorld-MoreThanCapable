@@ -1,134 +1,133 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AssignedToArt.label>assigned to art</AssignedToArt.label>
-  <AssignedToArt.description>Colonist has been assigned to art</AssignedToArt.description>
-  <AssignedToArt.stages.0.label>Uneasy</AssignedToArt.stages.0.label>
-  <AssignedToArt.stages.1.label>Annoyed</AssignedToArt.stages.1.label>
-  <AssignedToArt.stages.2.label>Angry</AssignedToArt.stages.2.label>
-  <AssignedToArt.stages.3.label>Furious</AssignedToArt.stages.3.label>
-  <AssignedToArt.stages.4.label>Mad</AssignedToArt.stages.4.label>
+  <AssignedToArt.label>雕刻任務</AssignedToArt.label>
+  <AssignedToArt.description>被指派進行藝術創作</AssignedToArt.description>
+  <AssignedToArt.stages.0.label>不安</AssignedToArt.stages.0.label>
+  <AssignedToArt.stages.1.label>煩躁</AssignedToArt.stages.1.label>
+  <AssignedToArt.stages.2.label>憤怒</AssignedToArt.stages.2.label>
+  <AssignedToArt.stages.3.label>躁怒</AssignedToArt.stages.3.label>
+  <AssignedToArt.stages.4.label>瘋狂</AssignedToArt.stages.4.label>
 
-  <AssignedToCleaning.label>assigned to cleaning</AssignedToCleaning.label>
-  <AssignedToCleaning.description>Colonist has been assigned to cleaning</AssignedToCleaning.description>
+  <AssignedToCleaning.label>清潔任務</AssignedToCleaning.label>
+  <AssignedToCleaning.description>被指派進行清潔工作。</AssignedToCleaning.description>
 
-  <AssignedToConstruction.label>assigned to construction</AssignedToConstruction.label>
-  <AssignedToConstruction.description>Colonist has been assigned to construction</AssignedToConstruction.description>
-  <AssignedToConstruction.stages.0.label>Uneasy</AssignedToConstruction.stages.0.label>
-  <AssignedToConstruction.stages.1.label>Annoyed</AssignedToConstruction.stages.1.label>
-  <AssignedToConstruction.stages.2.label>Angry</AssignedToConstruction.stages.2.label>
-  <AssignedToConstruction.stages.3.label>Furious</AssignedToConstruction.stages.3.label>
-  <AssignedToConstruction.stages.4.label>Mad</AssignedToConstruction.stages.4.label>
+  <AssignedToConstruction.label>建築任務</AssignedToConstruction.label>
+  <AssignedToConstruction.description>被指派進行建築工作</AssignedToConstruction.description>
+  <AssignedToConstruction.stages.0.label>不安</AssignedToConstruction.stages.0.label>
+  <AssignedToConstruction.stages.1.label>煩躁</AssignedToConstruction.stages.1.label>
+  <AssignedToConstruction.stages.2.label>憤怒</AssignedToConstruction.stages.2.label>
+  <AssignedToConstruction.stages.3.label>躁怒</AssignedToConstruction.stages.3.label>
+  <AssignedToConstruction.stages.4.label>瘋狂</AssignedToConstruction.stages.4.label>
 
-  <AssignedToCooking.label>assigned to cooking</AssignedToCooking.label>
-  <AssignedToCooking.description>Colonist has been assigned to cooking</AssignedToCooking.description>
-  <AssignedToCooking.stages.0.label>Uneasy</AssignedToCooking.stages.0.label>
-  <AssignedToCooking.stages.1.label>Annoyed</AssignedToCooking.stages.1.label>
-  <AssignedToCooking.stages.2.label>Angry</AssignedToCooking.stages.2.label>
-  <AssignedToCooking.stages.3.label>Furious</AssignedToCooking.stages.3.label>
-  <AssignedToCooking.stages.4.label>Mad</AssignedToCooking.stages.4.label>
+  <AssignedToCooking.label>廚房任務</AssignedToCooking.label>
+  <AssignedToCooking.description>被指派進行烹飪工作。</AssignedToCooking.description>
+  <AssignedToCooking.stages.0.label>不安</AssignedToCooking.stages.0.label>
+  <AssignedToCooking.stages.1.label>煩躁</AssignedToCooking.stages.1.label>
+  <AssignedToCooking.stages.2.label>憤怒</AssignedToCooking.stages.2.label>
+  <AssignedToCooking.stages.3.label>躁怒</AssignedToCooking.stages.3.label>
+  <AssignedToCooking.stages.4.label>瘋狂</AssignedToCooking.stages.4.label>
 
-  <AssignedToCrafting.label>assigned to crafting</AssignedToCrafting.label>
-  <AssignedToCrafting.description>Colonist has been assigned to crafting</AssignedToCrafting.description>
-  <AssignedToCrafting.stages.0.label>Uneasy</AssignedToCrafting.stages.0.label>
-  <AssignedToCrafting.stages.1.label>Annoyed</AssignedToCrafting.stages.1.label>
-  <AssignedToCrafting.stages.2.label>Angry</AssignedToCrafting.stages.2.label>
-  <AssignedToCrafting.stages.3.label>Furious</AssignedToCrafting.stages.3.label>
-  <AssignedToCrafting.stages.4.label>Mad</AssignedToCrafting.stages.4.label>
+  <AssignedToCrafting.label>工匠任務</AssignedToCrafting.label>
+  <AssignedToCrafting.description>被指派進行製作工作</AssignedToCrafting.description>
+  <AssignedToCrafting.stages.0.label>不安</AssignedToCrafting.stages.0.label>
+  <AssignedToCrafting.stages.1.label>煩躁</AssignedToCrafting.stages.1.label>
+  <AssignedToCrafting.stages.2.label>憤怒</AssignedToCrafting.stages.2.label>
+  <AssignedToCrafting.stages.3.label>躁怒</AssignedToCrafting.stages.3.label>
+  <AssignedToCrafting.stages.4.label>瘋狂</AssignedToCrafting.stages.4.label>
 
-  <AssignedToDoctor.label>assigned to doctor</AssignedToDoctor.label>
-  <AssignedToDoctor.description>Colonist has been assigned to doctor</AssignedToDoctor.description>
-  <AssignedToDoctor.stages.0.label>Uneasy</AssignedToDoctor.stages.0.label>
-  <AssignedToDoctor.stages.1.label>Annoyed</AssignedToDoctor.stages.1.label>
-  <AssignedToDoctor.stages.2.label>Angry</AssignedToDoctor.stages.2.label>
-  <AssignedToDoctor.stages.3.label>Furious</AssignedToDoctor.stages.3.label>
-  <AssignedToDoctor.stages.4.label>Mad</AssignedToDoctor.stages.4.label>
+  <AssignedToDoctor.label>醫療任務</AssignedToDoctor.label>
+  <AssignedToDoctor.description>被指派進行醫療工作。</AssignedToDoctor.description>
+  <AssignedToDoctor.stages.0.label>不安</AssignedToDoctor.stages.0.label>
+  <AssignedToDoctor.stages.1.label>煩躁</AssignedToDoctor.stages.1.label>
+  <AssignedToDoctor.stages.2.label>憤怒</AssignedToDoctor.stages.2.label>
+  <AssignedToDoctor.stages.3.label>躁怒</AssignedToDoctor.stages.3.label>
+  <AssignedToDoctor.stages.4.label>瘋狂</AssignedToDoctor.stages.4.label>
 
-  <AssignedToFirefighter.label>assigned to firefighter</AssignedToFirefighter.label>
-  <AssignedToFirefighter.description>Colonist has been assigned to firefighter</AssignedToFirefighter.description>
-  <AssignedToFirefighter.stages.0.label>Uneasy</AssignedToFirefighter.stages.0.label>
-  <AssignedToFirefighter.stages.1.label>Annoyed</AssignedToFirefighter.stages.1.label>
-  <AssignedToFirefighter.stages.2.label>Angry</AssignedToFirefighter.stages.2.label>
-  <AssignedToFirefighter.stages.3.label>Furious</AssignedToFirefighter.stages.3.label>
-  <AssignedToFirefighter.stages.4.label>Mad</AssignedToFirefighter.stages.4.label>
+  <AssignedToFirefighter.label>消防任務</AssignedToFirefighter.label>
+  <AssignedToFirefighter.description>被指派進行滅火工作。</AssignedToFirefighter.description>
+  <AssignedToFirefighter.stages.0.label>不安</AssignedToFirefighter.stages.0.label>
+  <AssignedToFirefighter.stages.1.label>煩躁</AssignedToFirefighter.stages.1.label>
+  <AssignedToFirefighter.stages.2.label>憤怒</AssignedToFirefighter.stages.2.label>
+  <AssignedToFirefighter.stages.3.label>躁怒</AssignedToFirefighter.stages.3.label>
+  <AssignedToFirefighter.stages.4.label>瘋狂</AssignedToFirefighter.stages.4.label>
 
-  <AssignedToGrowing.label>assigned to growing</AssignedToGrowing.label>
-  <AssignedToGrowing.description>Colonist has been assigned to growing</AssignedToGrowing.description>
-  <AssignedToGrowing.stages.0.label>Uneasy</AssignedToGrowing.stages.0.label>
-  <AssignedToGrowing.stages.1.label>Annoyed</AssignedToGrowing.stages.1.label>
-  <AssignedToGrowing.stages.2.label>Angry</AssignedToGrowing.stages.2.label>
-  <AssignedToGrowing.stages.3.label>Furious</AssignedToGrowing.stages.3.label>
-  <AssignedToGrowing.stages.4.label>Mad</AssignedToGrowing.stages.4.label>
+  <AssignedToGrowing.label>種植任務</AssignedToGrowing.label>
+  <AssignedToGrowing.description>被指派進行種植工作。</AssignedToGrowing.description>
+  <AssignedToGrowing.stages.0.label>不安</AssignedToGrowing.stages.0.label>
+  <AssignedToGrowing.stages.1.label>煩躁</AssignedToGrowing.stages.1.label>
+  <AssignedToGrowing.stages.2.label>憤怒</AssignedToGrowing.stages.2.label>
+  <AssignedToGrowing.stages.3.label>躁怒</AssignedToGrowing.stages.3.label>
+  <AssignedToGrowing.stages.4.label>瘋狂</AssignedToGrowing.stages.4.label>
 
-  <AssignedToHandling.label>assigned to handling</AssignedToHandling.label>
-  <AssignedToHandling.description>Colonist has been assigned to handling</AssignedToHandling.description>
-  <AssignedToHandling.stages.0.label>Uneasy</AssignedToHandling.stages.0.label>
-  <AssignedToHandling.stages.1.label>Annoyed</AssignedToHandling.stages.1.label>
-  <AssignedToHandling.stages.2.label>Angry</AssignedToHandling.stages.2.label>
-  <AssignedToHandling.stages.3.label>Furious</AssignedToHandling.stages.3.label>
-  <AssignedToHandling.stages.4.label>Mad</AssignedToHandling.stages.4.label>
+  <AssignedToHandling.label>畜牧任務</AssignedToHandling.label>
+  <AssignedToHandling.description>被指派進行動物工作</AssignedToHandling.description>
+  <AssignedToHandling.stages.0.label>不安</AssignedToHandling.stages.0.label>
+  <AssignedToHandling.stages.1.label>煩躁</AssignedToHandling.stages.1.label>
+  <AssignedToHandling.stages.2.label>憤怒</AssignedToHandling.stages.2.label>
+  <AssignedToHandling.stages.3.label>躁怒</AssignedToHandling.stages.3.label>
+  <AssignedToHandling.stages.4.label>瘋狂</AssignedToHandling.stages.4.label>
 
-  <AssignedToHauling.label>assigned to hauling</AssignedToHauling.label>
-  <AssignedToHauling.description>Colonist has been assigned to hauling</AssignedToHauling.description>
+  <AssignedToHauling.label>獵人任務</AssignedToHauling.label>
+  <AssignedToHauling.description>被指派進行狩獵工作。</AssignedToHauling.description>
 
-  <AssignedToHunting.label>assigned to hunting</AssignedToHunting.label>
-  <AssignedToHunting.description>Colonist has been assigned to hunting</AssignedToHunting.description>
-  <AssignedToHunting.stages.0.label>Uneasy</AssignedToHunting.stages.0.label>
-  <AssignedToHunting.stages.1.label>Annoyed</AssignedToHunting.stages.1.label>
-  <AssignedToHunting.stages.2.label>Angry</AssignedToHunting.stages.2.label>
-  <AssignedToHunting.stages.3.label>Furious</AssignedToHunting.stages.3.label>
-  <AssignedToHunting.stages.4.label>Mad</AssignedToHunting.stages.4.label>
+  <AssignedToHunting.label>搬運任務</AssignedToHunting.label>
+  <AssignedToHunting.description>被指派進行搬運工作</AssignedToHunting.description>
+  <AssignedToHunting.stages.0.label>不安</AssignedToHunting.stages.0.label>
+  <AssignedToHunting.stages.1.label>煩躁</AssignedToHunting.stages.1.label>
+  <AssignedToHunting.stages.2.label>憤怒</AssignedToHunting.stages.2.label>
+  <AssignedToHunting.stages.3.label>躁怒</AssignedToHunting.stages.3.label>
+  <AssignedToHunting.stages.4.label>瘋狂</AssignedToHunting.stages.4.label>
 
-  <AssignedToMining.label>assigned to mining</AssignedToMining.label>
-  <AssignedToMining.description>Colonist has been assigned to mining</AssignedToMining.description>
-  <AssignedToMining.stages.0.label>Uneasy</AssignedToMining.stages.0.label>
-  <AssignedToMining.stages.1.label>Annoyed</AssignedToMining.stages.1.label>
-  <AssignedToMining.stages.2.label>Angry</AssignedToMining.stages.2.label>
-  <AssignedToMining.stages.3.label>Furious</AssignedToMining.stages.3.label>
-  <AssignedToMining.stages.4.label>Mad</AssignedToMining.stages.4.label>
+  <AssignedToMining.label>採礦任務</AssignedToMining.label>
+  <AssignedToMining.description>被指派進行採礦工作。</AssignedToMining.description>
+  <AssignedToMining.stages.0.label>不安</AssignedToMining.stages.0.label>
+  <AssignedToMining.stages.1.label>煩躁</AssignedToMining.stages.1.label>
+  <AssignedToMining.stages.2.label>憤怒</AssignedToMining.stages.2.label>
+  <AssignedToMining.stages.3.label>躁怒</AssignedToMining.stages.3.label>
+  <AssignedToMining.stages.4.label>瘋狂</AssignedToMining.stages.4.label>
 
-  <AssignedToPlantCutting.label>assigned to plant cutting</AssignedToPlantCutting.label>
-  <AssignedToPlantCutting.description>Colonist has been assigned to plant cutting</AssignedToPlantCutting.description>
+  <AssignedToPlantCutting.label>採收任務</AssignedToPlantCutting.label>
+  <AssignedToPlantCutting.description>被指派進行採收工作。</AssignedToPlantCutting.description>
 
-  <AssignedToResearch.label>assigned to research</AssignedToResearch.label>
-  <AssignedToResearch.description>Colonist has been assigned to research</AssignedToResearch.description>
-  <AssignedToResearch.stages.0.label>Uneasy</AssignedToResearch.stages.0.label>
-  <AssignedToResearch.stages.1.label>Annoyed</AssignedToResearch.stages.1.label>
-  <AssignedToResearch.stages.2.label>Angry</AssignedToResearch.stages.2.label>
-  <AssignedToResearch.stages.3.label>Furious</AssignedToResearch.stages.3.label>
-  <AssignedToResearch.stages.4.label>Mad</AssignedToResearch.stages.4.label>
+  <AssignedToResearch.label>研究任務</AssignedToResearch.label>
+  <AssignedToResearch.description>被指派進行研究工作。</AssignedToResearch.description>
+  <AssignedToResearch.stages.0.label>不安</AssignedToResearch.stages.0.label>
+  <AssignedToResearch.stages.1.label>煩躁</AssignedToResearch.stages.1.label>
+  <AssignedToResearch.stages.2.label>憤怒</AssignedToResearch.stages.2.label>
+  <AssignedToResearch.stages.3.label>躁怒</AssignedToResearch.stages.3.label>
+  <AssignedToResearch.stages.4.label>瘋狂</AssignedToResearch.stages.4.label>
 
-  <AssignedToSmithing.label>assigned to smithing</AssignedToSmithing.label>
-  <AssignedToSmithing.description>Colonist has been assigned to smithing</AssignedToSmithing.description>
-  <AssignedToSmithing.stages.0.label>Uneasy</AssignedToSmithing.stages.0.label>
-  <AssignedToSmithing.stages.1.label>Annoyed</AssignedToSmithing.stages.1.label>
-  <AssignedToSmithing.stages.2.label>Angry</AssignedToSmithing.stages.2.label>
-  <AssignedToSmithing.stages.3.label>Furious</AssignedToSmithing.stages.3.label>
-  <AssignedToSmithing.stages.4.label>Mad</AssignedToSmithing.stages.4.label>
+  <AssignedToSmithing.label>鐵匠任務</AssignedToSmithing.label>
+  <AssignedToSmithing.description>被指派進行鍛造工作。</AssignedToSmithing.description>
+  <AssignedToSmithing.stages.0.label>不安</AssignedToSmithing.stages.0.label>
+  <AssignedToSmithing.stages.1.label>煩躁</AssignedToSmithing.stages.1.label>
+  <AssignedToSmithing.stages.2.label>憤怒</AssignedToSmithing.stages.2.label>
+  <AssignedToSmithing.stages.3.label>躁怒</AssignedToSmithing.stages.3.label>
+  <AssignedToSmithing.stages.4.label>瘋狂</AssignedToSmithing.stages.4.label>
 
-  <AssignedToTailoring.label>assigned to tailoring</AssignedToTailoring.label>
-  <AssignedToTailoring.description>Colonist has been assigned to tailoring</AssignedToTailoring.description>
-  <AssignedToTailoring.stages.0.label>Uneasy</AssignedToTailoring.stages.0.label>
-  <AssignedToTailoring.stages.1.label>Annoyed</AssignedToTailoring.stages.1.label>
-  <AssignedToTailoring.stages.2.label>Angry</AssignedToTailoring.stages.2.label>
-  <AssignedToTailoring.stages.3.label>Furious</AssignedToTailoring.stages.3.label>
-  <AssignedToTailoring.stages.4.label>Mad</AssignedToTailoring.stages.4.label>
+  <AssignedToTailoring.label>裁縫任務</AssignedToTailoring.label>
+  <AssignedToTailoring.description>被指派進行縫紉工作。</AssignedToTailoring.description>
+  <AssignedToTailoring.stages.0.label>不安</AssignedToTailoring.stages.0.label>
+  <AssignedToTailoring.stages.1.label>煩躁</AssignedToTailoring.stages.1.label>
+  <AssignedToTailoring.stages.2.label>憤怒</AssignedToTailoring.stages.2.label>
+  <AssignedToTailoring.stages.3.label>躁怒</AssignedToTailoring.stages.3.label>
+  <AssignedToTailoring.stages.4.label>瘋狂</AssignedToTailoring.stages.4.label>
 
-  <AssignedToWarden.label>assigned to warden</AssignedToWarden.label>
-  <AssignedToWarden.description>Colonist has been assigned to warden</AssignedToWarden.description>
-  <AssignedToWarden.stages.0.label>Uneasy</AssignedToWarden.stages.0.label>
-  <AssignedToWarden.stages.1.label>Annoyed</AssignedToWarden.stages.1.label>
-  <AssignedToWarden.stages.2.label>Angry</AssignedToWarden.stages.2.label>
-  <AssignedToWarden.stages.3.label>Furious</AssignedToWarden.stages.3.label>
-  <AssignedToWarden.stages.4.label>Mad</AssignedToWarden.stages.4.label>
+  <AssignedToWarden.label>獄卒任務</AssignedToWarden.label>
+  <AssignedToWarden.description>被指派進行監管工作。</AssignedToWarden.description>
+  <AssignedToWarden.stages.0.label>不安</AssignedToWarden.stages.0.label>
+  <AssignedToWarden.stages.1.label>煩躁</AssignedToWarden.stages.1.label>
+  <AssignedToWarden.stages.2.label>憤怒</AssignedToWarden.stages.2.label>
+  <AssignedToWarden.stages.3.label>躁怒</AssignedToWarden.stages.3.label>
+  <AssignedToWarden.stages.4.label>瘋狂</AssignedToWarden.stages.4.label>
 
-  <AssignedAWeapon.label>assigned a weapon</AssignedAWeapon.label>
-  <AssignedAWeapon.description>Colonist has been assigned a weapon</AssignedAWeapon.description>
-  <AssignedAWeapon.stages.0.label>Uneasy</AssignedAWeapon.stages.0.label>
-  <AssignedAWeapon.stages.1.label>Annoyed</AssignedAWeapon.stages.1.label>
-  <AssignedAWeapon.stages.2.label>Angry</AssignedAWeapon.stages.2.label>
-  <AssignedAWeapon.stages.3.label>Furious</AssignedAWeapon.stages.3.label>
-  <AssignedAWeapon.stages.4.label>Mad</AssignedAWeapon.stages.4.label>
-
+  <AssignedAWeapon.label>持有武器</AssignedAWeapon.label>
+  <AssignedAWeapon.description>被強迫裝備武器</AssignedAWeapon.description>
+  <AssignedAWeapon.stages.0.label>不安</AssignedAWeapon.stages.0.label>
+  <AssignedAWeapon.stages.1.label>煩躁</AssignedAWeapon.stages.1.label>
+  <AssignedAWeapon.stages.2.label>憤怒</AssignedAWeapon.stages.2.label>
+  <AssignedAWeapon.stages.3.label>躁怒</AssignedAWeapon.stages.3.label>
+  <AssignedAWeapon.stages.4.label>瘋狂</AssignedAWeapon.stages.4.label>
 
 </LanguageData>
