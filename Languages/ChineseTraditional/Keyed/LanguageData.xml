@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MTC.MoreThanCapable>More than Capable</MTC.MoreThanCapable>
+
+  <MTC.allowFDJ>Allow "Force Do Job" Behavior.</MTC.allowFDJ>
+  <MTC.allowFDJTip>If this is checked, a pawn can be told to do a specific job, even if not assigned to the work type to which the job belongs, so long as they don't actually hate the work type. If you prefer vanilla behavior, and want to be able to tell a pawn to do a specific job only if they are actually assigned to the relevant work type, then uncheck it. Requires restart to apply.</MTC.allowFDJTip>
+
+  <MTC.obeyLifeStages>Obey Life Stages.</MTC.obeyLifeStages>
+  <MTC.obeyLifeStagesTip>If this is checked, work types that have age requirements will be obeyed.</MTC.obeyLifeStagesTip>
+
+  <MTC.obeyGuestExceptions>Obey Guest Exceptions.</MTC.obeyGuestExceptions>
+  <MTC.obeyGuestExceptionsTip>If this is checked, work types that forbid guests (slaves) from working will be obeyed.</MTC.obeyGuestExceptionsTip>
+
+  <MTC.IncapableOf>Hated work types</MTC.IncapableOf>
+  <MTC.CannotDoThisWork>{0} hates doing this kind of work.</MTC.CannotDoThisWork>
+
+  <MTC.CannotPrioritizeWorkGiverDisabled>Cannot prioritize (non-violent pawn not assigned a weapon)</MTC.CannotPrioritizeWorkGiverDisabled>
+  <MTC.CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (pawn hates and/or is not assigned to {0})</MTC.CannotPrioritizeNotAssignedToWorkType>
+  <MTC.IsIncapableOfViolenceLower>{0} is non-violent and not assigned a weapon</MTC.IsIncapableOfViolenceLower>
+
+  <MTC.BadWorkAssignment.Label>Bad work assignment</MTC.BadWorkAssignment.Label>
+  <MTC.BadWorkAssignment.Explanation>At least one pawn has been assigned to a hated work type. In the short term, this probably isn't a problem, but over time, it could lead to extreme unhappiness.</MTC.BadWorkAssignment.Explanation>
+
+  <MTC.AssignedAWeapon.Label>Non-violent pawn assigned a weapon</MTC.AssignedAWeapon.Label>
+  <MTC.AssignedAWeapon.Explanation>A pawn who detests violence has been assigned a weapon. In the short term, this probably isn't a problem, but over time, it could lead to extreme unhappiness.</MTC.AssignedAWeapon.Explanation>
+
+</LanguageData>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AssignedToArt.label>assigned to art</AssignedToArt.label>
+  <AssignedToArt.description>Colonist has been assigned to art</AssignedToArt.description>
+  <AssignedToArt.stages.0.label>Uneasy</AssignedToArt.stages.0.label>
+  <AssignedToArt.stages.1.label>Annoyed</AssignedToArt.stages.1.label>
+  <AssignedToArt.stages.2.label>Angry</AssignedToArt.stages.2.label>
+  <AssignedToArt.stages.3.label>Furious</AssignedToArt.stages.3.label>
+  <AssignedToArt.stages.4.label>Mad</AssignedToArt.stages.4.label>
+
+  <AssignedToCleaning.label>assigned to cleaning</AssignedToCleaning.label>
+  <AssignedToCleaning.description>Colonist has been assigned to cleaning</AssignedToCleaning.description>
+
+  <AssignedToConstruction.label>assigned to construction</AssignedToConstruction.label>
+  <AssignedToConstruction.description>Colonist has been assigned to construction</AssignedToConstruction.description>
+  <AssignedToConstruction.stages.0.label>Uneasy</AssignedToConstruction.stages.0.label>
+  <AssignedToConstruction.stages.1.label>Annoyed</AssignedToConstruction.stages.1.label>
+  <AssignedToConstruction.stages.2.label>Angry</AssignedToConstruction.stages.2.label>
+  <AssignedToConstruction.stages.3.label>Furious</AssignedToConstruction.stages.3.label>
+  <AssignedToConstruction.stages.4.label>Mad</AssignedToConstruction.stages.4.label>
+
+  <AssignedToCooking.label>assigned to cooking</AssignedToCooking.label>
+  <AssignedToCooking.description>Colonist has been assigned to cooking</AssignedToCooking.description>
+  <AssignedToCooking.stages.0.label>Uneasy</AssignedToCooking.stages.0.label>
+  <AssignedToCooking.stages.1.label>Annoyed</AssignedToCooking.stages.1.label>
+  <AssignedToCooking.stages.2.label>Angry</AssignedToCooking.stages.2.label>
+  <AssignedToCooking.stages.3.label>Furious</AssignedToCooking.stages.3.label>
+  <AssignedToCooking.stages.4.label>Mad</AssignedToCooking.stages.4.label>
+
+  <AssignedToCrafting.label>assigned to crafting</AssignedToCrafting.label>
+  <AssignedToCrafting.description>Colonist has been assigned to crafting</AssignedToCrafting.description>
+  <AssignedToCrafting.stages.0.label>Uneasy</AssignedToCrafting.stages.0.label>
+  <AssignedToCrafting.stages.1.label>Annoyed</AssignedToCrafting.stages.1.label>
+  <AssignedToCrafting.stages.2.label>Angry</AssignedToCrafting.stages.2.label>
+  <AssignedToCrafting.stages.3.label>Furious</AssignedToCrafting.stages.3.label>
+  <AssignedToCrafting.stages.4.label>Mad</AssignedToCrafting.stages.4.label>
+
+  <AssignedToDoctor.label>assigned to doctor</AssignedToDoctor.label>
+  <AssignedToDoctor.description>Colonist has been assigned to doctor</AssignedToDoctor.description>
+  <AssignedToDoctor.stages.0.label>Uneasy</AssignedToDoctor.stages.0.label>
+  <AssignedToDoctor.stages.1.label>Annoyed</AssignedToDoctor.stages.1.label>
+  <AssignedToDoctor.stages.2.label>Angry</AssignedToDoctor.stages.2.label>
+  <AssignedToDoctor.stages.3.label>Furious</AssignedToDoctor.stages.3.label>
+  <AssignedToDoctor.stages.4.label>Mad</AssignedToDoctor.stages.4.label>
+
+  <AssignedToFirefighter.label>assigned to firefighter</AssignedToFirefighter.label>
+  <AssignedToFirefighter.description>Colonist has been assigned to firefighter</AssignedToFirefighter.description>
+  <AssignedToFirefighter.stages.0.label>Uneasy</AssignedToFirefighter.stages.0.label>
+  <AssignedToFirefighter.stages.1.label>Annoyed</AssignedToFirefighter.stages.1.label>
+  <AssignedToFirefighter.stages.2.label>Angry</AssignedToFirefighter.stages.2.label>
+  <AssignedToFirefighter.stages.3.label>Furious</AssignedToFirefighter.stages.3.label>
+  <AssignedToFirefighter.stages.4.label>Mad</AssignedToFirefighter.stages.4.label>
+
+  <AssignedToGrowing.label>assigned to growing</AssignedToGrowing.label>
+  <AssignedToGrowing.description>Colonist has been assigned to growing</AssignedToGrowing.description>
+  <AssignedToGrowing.stages.0.label>Uneasy</AssignedToGrowing.stages.0.label>
+  <AssignedToGrowing.stages.1.label>Annoyed</AssignedToGrowing.stages.1.label>
+  <AssignedToGrowing.stages.2.label>Angry</AssignedToGrowing.stages.2.label>
+  <AssignedToGrowing.stages.3.label>Furious</AssignedToGrowing.stages.3.label>
+  <AssignedToGrowing.stages.4.label>Mad</AssignedToGrowing.stages.4.label>
+
+  <AssignedToHandling.label>assigned to handling</AssignedToHandling.label>
+  <AssignedToHandling.description>Colonist has been assigned to handling</AssignedToHandling.description>
+  <AssignedToHandling.stages.0.label>Uneasy</AssignedToHandling.stages.0.label>
+  <AssignedToHandling.stages.1.label>Annoyed</AssignedToHandling.stages.1.label>
+  <AssignedToHandling.stages.2.label>Angry</AssignedToHandling.stages.2.label>
+  <AssignedToHandling.stages.3.label>Furious</AssignedToHandling.stages.3.label>
+  <AssignedToHandling.stages.4.label>Mad</AssignedToHandling.stages.4.label>
+
+  <AssignedToHauling.label>assigned to hauling</AssignedToHauling.label>
+  <AssignedToHauling.description>Colonist has been assigned to hauling</AssignedToHauling.description>
+
+  <AssignedToHunting.label>assigned to hunting</AssignedToHunting.label>
+  <AssignedToHunting.description>Colonist has been assigned to hunting</AssignedToHunting.description>
+  <AssignedToHunting.stages.0.label>Uneasy</AssignedToHunting.stages.0.label>
+  <AssignedToHunting.stages.1.label>Annoyed</AssignedToHunting.stages.1.label>
+  <AssignedToHunting.stages.2.label>Angry</AssignedToHunting.stages.2.label>
+  <AssignedToHunting.stages.3.label>Furious</AssignedToHunting.stages.3.label>
+  <AssignedToHunting.stages.4.label>Mad</AssignedToHunting.stages.4.label>
+
+  <AssignedToMining.label>assigned to mining</AssignedToMining.label>
+  <AssignedToMining.description>Colonist has been assigned to mining</AssignedToMining.description>
+  <AssignedToMining.stages.0.label>Uneasy</AssignedToMining.stages.0.label>
+  <AssignedToMining.stages.1.label>Annoyed</AssignedToMining.stages.1.label>
+  <AssignedToMining.stages.2.label>Angry</AssignedToMining.stages.2.label>
+  <AssignedToMining.stages.3.label>Furious</AssignedToMining.stages.3.label>
+  <AssignedToMining.stages.4.label>Mad</AssignedToMining.stages.4.label>
+
+  <AssignedToPlantCutting.label>assigned to plant cutting</AssignedToPlantCutting.label>
+  <AssignedToPlantCutting.description>Colonist has been assigned to plant cutting</AssignedToPlantCutting.description>
+
+  <AssignedToResearch.label>assigned to research</AssignedToResearch.label>
+  <AssignedToResearch.description>Colonist has been assigned to research</AssignedToResearch.description>
+  <AssignedToResearch.stages.0.label>Uneasy</AssignedToResearch.stages.0.label>
+  <AssignedToResearch.stages.1.label>Annoyed</AssignedToResearch.stages.1.label>
+  <AssignedToResearch.stages.2.label>Angry</AssignedToResearch.stages.2.label>
+  <AssignedToResearch.stages.3.label>Furious</AssignedToResearch.stages.3.label>
+  <AssignedToResearch.stages.4.label>Mad</AssignedToResearch.stages.4.label>
+
+  <AssignedToSmithing.label>assigned to smithing</AssignedToSmithing.label>
+  <AssignedToSmithing.description>Colonist has been assigned to smithing</AssignedToSmithing.description>
+  <AssignedToSmithing.stages.0.label>Uneasy</AssignedToSmithing.stages.0.label>
+  <AssignedToSmithing.stages.1.label>Annoyed</AssignedToSmithing.stages.1.label>
+  <AssignedToSmithing.stages.2.label>Angry</AssignedToSmithing.stages.2.label>
+  <AssignedToSmithing.stages.3.label>Furious</AssignedToSmithing.stages.3.label>
+  <AssignedToSmithing.stages.4.label>Mad</AssignedToSmithing.stages.4.label>
+
+  <AssignedToTailoring.label>assigned to tailoring</AssignedToTailoring.label>
+  <AssignedToTailoring.description>Colonist has been assigned to tailoring</AssignedToTailoring.description>
+  <AssignedToTailoring.stages.0.label>Uneasy</AssignedToTailoring.stages.0.label>
+  <AssignedToTailoring.stages.1.label>Annoyed</AssignedToTailoring.stages.1.label>
+  <AssignedToTailoring.stages.2.label>Angry</AssignedToTailoring.stages.2.label>
+  <AssignedToTailoring.stages.3.label>Furious</AssignedToTailoring.stages.3.label>
+  <AssignedToTailoring.stages.4.label>Mad</AssignedToTailoring.stages.4.label>
+
+  <AssignedToWarden.label>assigned to warden</AssignedToWarden.label>
+  <AssignedToWarden.description>Colonist has been assigned to warden</AssignedToWarden.description>
+  <AssignedToWarden.stages.0.label>Uneasy</AssignedToWarden.stages.0.label>
+  <AssignedToWarden.stages.1.label>Annoyed</AssignedToWarden.stages.1.label>
+  <AssignedToWarden.stages.2.label>Angry</AssignedToWarden.stages.2.label>
+  <AssignedToWarden.stages.3.label>Furious</AssignedToWarden.stages.3.label>
+  <AssignedToWarden.stages.4.label>Mad</AssignedToWarden.stages.4.label>
+
+  <AssignedAWeapon.label>assigned a weapon</AssignedAWeapon.label>
+  <AssignedAWeapon.description>Colonist has been assigned a weapon</AssignedAWeapon.description>
+  <AssignedAWeapon.stages.0.label>Uneasy</AssignedAWeapon.stages.0.label>
+  <AssignedAWeapon.stages.1.label>Annoyed</AssignedAWeapon.stages.1.label>
+  <AssignedAWeapon.stages.2.label>Angry</AssignedAWeapon.stages.2.label>
+  <AssignedAWeapon.stages.3.label>Furious</AssignedAWeapon.stages.3.label>
+  <AssignedAWeapon.stages.4.label>Mad</AssignedAWeapon.stages.4.label>
+
+
+</LanguageData>

@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AssignedToArt.stages.0.label>assigned to art</AssignedToArt.stages.0.label>
+  <AssignedToArt.stages.0.description>I hate art.</AssignedToArt.stages.0.description>
+  <AssignedToArt.stages.1.label>assigned to art (Annoyed)</AssignedToArt.stages.1.label>
+  <AssignedToArt.stages.1.description>I really hate art.</AssignedToArt.stages.1.description>
+  <AssignedToArt.stages.2.label>assigned to art (Angry)</AssignedToArt.stages.2.label>
+  <AssignedToArt.stages.2.description>I really, really hate art!</AssignedToArt.stages.2.description>
+  <AssignedToArt.stages.3.label>assigned to art (Furious)</AssignedToArt.stages.3.label>
+  <AssignedToArt.stages.3.description>I can't believe I'm still assigned to art!</AssignedToArt.stages.3.description>
+  <AssignedToArt.stages.4.label>assigned to art (Mad)</AssignedToArt.stages.4.label>
+  <AssignedToArt.stages.4.description>If I'm assigned to art for one more minute, I swear I'm going to lose it!</AssignedToArt.stages.4.description>
+  <AssignedToArt.stages.5.label>was assigned to art</AssignedToArt.stages.5.label>
+  <AssignedToArt.stages.5.description>I'm still annoyed that I was assigned to art.</AssignedToArt.stages.5.description>
+
+  <AssignedToCleaning.stages.0.label>assigned to cleaning</AssignedToCleaning.stages.0.label>
+  <AssignedToCleaning.stages.0.description>I hate cleaning.</AssignedToCleaning.stages.0.description>
+  <AssignedToCleaning.stages.1.label>was assigned to cleaning</AssignedToCleaning.stages.1.label>
+  <AssignedToCleaning.stages.1.description>I'm still annoyed that I was assigned to cleaning.</AssignedToCleaning.stages.1.description>
+
+  <AssignedToConstruction.stages.0.label>assigned to construction</AssignedToConstruction.stages.0.label>
+  <AssignedToConstruction.stages.0.description>I hate construction.</AssignedToConstruction.stages.0.description>
+  <AssignedToConstruction.stages.1.label>assigned to construction (Annoyed)</AssignedToConstruction.stages.1.label>
+  <AssignedToConstruction.stages.1.description>I really hate construction.</AssignedToConstruction.stages.1.description>
+  <AssignedToConstruction.stages.2.label>assigned to construction (Angry)</AssignedToConstruction.stages.2.label>
+  <AssignedToConstruction.stages.2.description>I really, really hate construction!</AssignedToConstruction.stages.2.description>
+  <AssignedToConstruction.stages.3.label>assigned to construction (Furious)</AssignedToConstruction.stages.3.label>
+  <AssignedToConstruction.stages.3.description>I can't believe I'm still assigned to construction!</AssignedToConstruction.stages.3.description>
+  <AssignedToConstruction.stages.4.label>assigned to construction (Mad)</AssignedToConstruction.stages.4.label>
+  <AssignedToConstruction.stages.4.description>If I'm assigned to construction for one more minute, I swear I'm going to lose it!</AssignedToConstruction.stages.4.description>
+  <AssignedToConstruction.stages.5.label>was assigned to construction</AssignedToConstruction.stages.5.label>
+  <AssignedToConstruction.stages.5.description>I'm still annoyed that I was assigned to construction.</AssignedToConstruction.stages.5.description>
+
+  <AssignedToCooking.stages.0.label>assigned to cooking</AssignedToCooking.stages.0.label>
+  <AssignedToCooking.stages.0.description>I hate cooking.</AssignedToCooking.stages.0.description>
+  <AssignedToCooking.stages.1.label>assigned to cooking (Annoyed)</AssignedToCooking.stages.1.label>
+  <AssignedToCooking.stages.1.description>I really hate cooking.</AssignedToCooking.stages.1.description>
+  <AssignedToCooking.stages.2.label>assigned to cooking (Angry)</AssignedToCooking.stages.2.label>
+  <AssignedToCooking.stages.2.description>I really, really hate cooking!</AssignedToCooking.stages.2.description>
+  <AssignedToCooking.stages.3.label>assigned to cooking (Furious)</AssignedToCooking.stages.3.label>
+  <AssignedToCooking.stages.3.description>I can't believe I'm still assigned to cooking!</AssignedToCooking.stages.3.description>
+  <AssignedToCooking.stages.4.label>assigned to cooking (Mad)</AssignedToCooking.stages.4.label>
+  <AssignedToCooking.stages.4.description>If I'm assigned to cooking for one more minute, I swear I'm going to lose it!</AssignedToCooking.stages.4.description>
+  <AssignedToCooking.stages.5.label>was assigned to cooking</AssignedToCooking.stages.5.label>
+  <AssignedToCooking.stages.5.description>I'm still annoyed that I was assigned to cooking.</AssignedToCooking.stages.5.description>
+
+  <AssignedToCrafting.stages.0.label>assigned to crafting</AssignedToCrafting.stages.0.label>
+  <AssignedToCrafting.stages.0.description>I hate crafting.</AssignedToCrafting.stages.0.description>
+  <AssignedToCrafting.stages.1.label>assigned to crafting (Annoyed)</AssignedToCrafting.stages.1.label>
+  <AssignedToCrafting.stages.1.description>I really hate crafting.</AssignedToCrafting.stages.1.description>
+  <AssignedToCrafting.stages.2.label>assigned to crafting (Angry)</AssignedToCrafting.stages.2.label>
+  <AssignedToCrafting.stages.2.description>I really, really hate crafting!</AssignedToCrafting.stages.2.description>
+  <AssignedToCrafting.stages.3.label>assigned to crafting (Furious)</AssignedToCrafting.stages.3.label>
+  <AssignedToCrafting.stages.3.description>I can't believe I'm still assigned to crafting!</AssignedToCrafting.stages.3.description>
+  <AssignedToCrafting.stages.4.label>assigned to crafting (Mad)</AssignedToCrafting.stages.4.label>
+  <AssignedToCrafting.stages.4.description>If I'm assigned to crafting for one more minute, I swear I'm going to lose it!</AssignedToCrafting.stages.4.description>
+  <AssignedToCrafting.stages.5.label>was assigned to crafting</AssignedToCrafting.stages.5.label>
+  <AssignedToCrafting.stages.5.description>I'm still annoyed that I was assigned to crafting.</AssignedToCrafting.stages.5.description>
+
+  <AssignedToDoctor.stages.0.label>assigned to doctor</AssignedToDoctor.stages.0.label>
+  <AssignedToDoctor.stages.0.description>I hate playing doctor.</AssignedToDoctor.stages.0.description>
+  <AssignedToDoctor.stages.1.label>assigned to doctor (Annoyed)</AssignedToDoctor.stages.1.label>
+  <AssignedToDoctor.stages.1.description>I really hate playing doctor.</AssignedToDoctor.stages.1.description>
+  <AssignedToDoctor.stages.2.label>assigned to doctor (Angry)</AssignedToDoctor.stages.2.label>
+  <AssignedToDoctor.stages.2.description>I really, really hate playing doctor!</AssignedToDoctor.stages.2.description>
+  <AssignedToDoctor.stages.3.label>assigned to doctor (Furious)</AssignedToDoctor.stages.3.label>
+  <AssignedToDoctor.stages.3.description>I can't believe I'm still assigned to play doctor!</AssignedToDoctor.stages.3.description>
+  <AssignedToDoctor.stages.4.label>assigned to doctor (Mad)</AssignedToDoctor.stages.4.label>
+  <AssignedToDoctor.stages.4.description>If I'm assigned to play doctor for one more minute, I swear I'm going to lose it!</AssignedToDoctor.stages.4.description>
+  <AssignedToDoctor.stages.5.label>was assigned to doctor</AssignedToDoctor.stages.5.label>
+  <AssignedToDoctor.stages.5.description>I'm still annoyed that I was assigned to play doctor.</AssignedToDoctor.stages.5.description>
+
+  <AssignedToFirefighter.stages.0.label>assigned to firefighter</AssignedToFirefighter.stages.0.label>
+  <AssignedToFirefighter.stages.0.description>I hate firefighting.</AssignedToFirefighter.stages.0.description>
+  <AssignedToFirefighter.stages.1.label>assigned to firefighter (Annoyed)</AssignedToFirefighter.stages.1.label>
+  <AssignedToFirefighter.stages.1.description>I really hate firefighting.</AssignedToFirefighter.stages.1.description>
+  <AssignedToFirefighter.stages.2.label>assigned to firefighter (Angry)</AssignedToFirefighter.stages.2.label>
+  <AssignedToFirefighter.stages.2.description>I really, really hate firefighting!</AssignedToFirefighter.stages.2.description>
+  <AssignedToFirefighter.stages.3.label>assigned to firefighter (Furious)</AssignedToFirefighter.stages.3.label>
+  <AssignedToFirefighter.stages.3.description>I can't believe I'm still assigned to firefighting!</AssignedToFirefighter.stages.3.description>
+  <AssignedToFirefighter.stages.4.label>assigned to firefighter (Mad)</AssignedToFirefighter.stages.4.label>
+  <AssignedToFirefighter.stages.4.description>If I'm assigned to firefighting for one more minute, I swear I'm going to lose it!</AssignedToFirefighter.stages.4.description>
+  <AssignedToFirefighter.stages.5.label>was assigned to firefighter</AssignedToFirefighter.stages.5.label>
+  <AssignedToFirefighter.stages.5.description>I'm still annoyed that I was assigned to firefighting.</AssignedToFirefighter.stages.5.description>
+
+  <AssignedToGrowing.stages.0.label>assigned to growing</AssignedToGrowing.stages.0.label>
+  <AssignedToGrowing.stages.0.description>I hate growing things.</AssignedToGrowing.stages.0.description>
+  <AssignedToGrowing.stages.1.label>assigned to growing (Annoyed)</AssignedToGrowing.stages.1.label>
+  <AssignedToGrowing.stages.1.description>I really hate growing things.</AssignedToGrowing.stages.1.description>
+  <AssignedToGrowing.stages.2.label>assigned to growing (Angry)</AssignedToGrowing.stages.2.label>
+  <AssignedToGrowing.stages.2.description>I really, really hate growing things!</AssignedToGrowing.stages.2.description>
+  <AssignedToGrowing.stages.3.label>assigned to growing (Furious)</AssignedToGrowing.stages.3.label>
+  <AssignedToGrowing.stages.3.description>I can't believe I'm still assigned to growing things!</AssignedToGrowing.stages.3.description>
+  <AssignedToGrowing.stages.4.label>assigned to growing (Mad)</AssignedToGrowing.stages.4.label>
+  <AssignedToGrowing.stages.4.description>If I'm assigned to growing things for one more minute, I swear I'm going to lose it!</AssignedToGrowing.stages.4.description>
+  <AssignedToGrowing.stages.5.label>was assigned to growing</AssignedToGrowing.stages.5.label>
+  <AssignedToGrowing.stages.5.description>I'm still annoyed that I was assigned to growing things.</AssignedToGrowing.stages.5.description>
+
+  <AssignedToHandling.stages.0.label>assigned to handling</AssignedToHandling.stages.0.label>
+  <AssignedToHandling.stages.0.description>I hate animals.</AssignedToHandling.stages.0.description>
+  <AssignedToHandling.stages.1.label>assigned to handling (Annoyed)</AssignedToHandling.stages.1.label>
+  <AssignedToHandling.stages.1.description>I really hate animals.</AssignedToHandling.stages.1.description>
+  <AssignedToHandling.stages.2.label>assigned to handling (Angry)</AssignedToHandling.stages.2.label>
+  <AssignedToHandling.stages.2.description>I really, really hate animals!</AssignedToHandling.stages.2.description>
+  <AssignedToHandling.stages.3.label>assigned to handling (Furious)</AssignedToHandling.stages.3.label>
+  <AssignedToHandling.stages.3.description>I can't believe I'm still assigned to handling animals!</AssignedToHandling.stages.3.description>
+  <AssignedToHandling.stages.4.label>assigned to handling (Mad)</AssignedToHandling.stages.4.label>
+  <AssignedToHandling.stages.4.description>If I'm assigned to handling animals for one more minute, I swear I'm going to lose it!</AssignedToHandling.stages.4.description>
+  <AssignedToHandling.stages.5.label>was assigned to handling</AssignedToHandling.stages.5.label>
+  <AssignedToHandling.stages.5.description>I'm still annoyed that I was assigned to handling animals.</AssignedToHandling.stages.5.description>
+
+  <AssignedToHauling.stages.0.label>assigned to hauling</AssignedToHauling.stages.0.label>
+  <AssignedToHauling.stages.0.description>I hate hauling.</AssignedToHauling.stages.0.description>
+  <AssignedToHauling.stages.1.label>was assigned to hauling</AssignedToHauling.stages.1.label>
+  <AssignedToHauling.stages.1.description>I'm still annoyed that I was assigned to hauling.</AssignedToHauling.stages.1.description>
+
+  <AssignedToHunting.stages.0.label>assigned to hunting</AssignedToHunting.stages.0.label>
+  <AssignedToHunting.stages.0.description>I hate hunting.</AssignedToHunting.stages.0.description>
+  <AssignedToHunting.stages.1.label>assigned to hunting (Annoyed)</AssignedToHunting.stages.1.label>
+  <AssignedToHunting.stages.1.description>I really hate hunting.</AssignedToHunting.stages.1.description>
+  <AssignedToHunting.stages.2.label>assigned to hunting (Angry)</AssignedToHunting.stages.2.label>
+  <AssignedToHunting.stages.2.description>I really, really hate hunting!</AssignedToHunting.stages.2.description>
+  <AssignedToHunting.stages.3.label>assigned to hunting (Furious)</AssignedToHunting.stages.3.label>
+  <AssignedToHunting.stages.3.description>I can't believe I'm still assigned to hunting!</AssignedToHunting.stages.3.description>
+  <AssignedToHunting.stages.4.label>assigned to hunting (Mad)</AssignedToHunting.stages.4.label>
+  <AssignedToHunting.stages.4.description>If I'm assigned to hunting for one more minute, I swear I'm going to lose it!</AssignedToHunting.stages.4.description>
+  <AssignedToHunting.stages.5.label>was assigned to hunting</AssignedToHunting.stages.5.label>
+  <AssignedToHunting.stages.5.description>I'm still annoyed that I was assigned to hunting.</AssignedToHunting.stages.5.description>
+
+  <AssignedToMining.stages.0.label>assigned to mining</AssignedToMining.stages.0.label>
+  <AssignedToMining.stages.0.description>I hate mining.</AssignedToMining.stages.0.description>
+  <AssignedToMining.stages.1.label>assigned to mining (Annoyed)</AssignedToMining.stages.1.label>
+  <AssignedToMining.stages.1.description>I really hate mining.</AssignedToMining.stages.1.description>
+  <AssignedToMining.stages.2.label>assigned to mining (Angry)</AssignedToMining.stages.2.label>
+  <AssignedToMining.stages.2.description>I really, really hate mining!</AssignedToMining.stages.2.description>
+  <AssignedToMining.stages.3.label>assigned to mining (Furious)</AssignedToMining.stages.3.label>
+  <AssignedToMining.stages.3.description>I can't believe I'm still assigned to mining!</AssignedToMining.stages.3.description>
+  <AssignedToMining.stages.4.label>assigned to mining (Mad)</AssignedToMining.stages.4.label>
+  <AssignedToMining.stages.4.description>If I'm assigned to mining for one more minute, I swear I'm going to lose it!</AssignedToMining.stages.4.description>
+  <AssignedToMining.stages.5.label>was assigned to mining</AssignedToMining.stages.5.label>
+  <AssignedToMining.stages.5.description>I'm still annoyed that I was assigned to mining.</AssignedToMining.stages.5.description>
+
+  <AssignedToPlantCutting.stages.0.label>assigned to plant cutting</AssignedToPlantCutting.stages.0.label>
+  <AssignedToPlantCutting.stages.0.description>I hate plant cutting.</AssignedToPlantCutting.stages.0.description>
+  <AssignedToPlantCutting.stages.1.label>was assigned to plant cutting</AssignedToPlantCutting.stages.1.label>
+  <AssignedToPlantCutting.stages.1.description>I'm still annoyed that I was assigned to plant cutting.</AssignedToPlantCutting.stages.1.description>
+
+  <AssignedToResearch.stages.0.label>assigned to research</AssignedToResearch.stages.0.label>
+  <AssignedToResearch.stages.0.description>I hate research.</AssignedToResearch.stages.0.description>
+  <AssignedToResearch.stages.1.label>assigned to research (Annoyed)</AssignedToResearch.stages.1.label>
+  <AssignedToResearch.stages.1.description>I really hate research.</AssignedToResearch.stages.1.description>
+  <AssignedToResearch.stages.2.label>assigned to research (Angry)</AssignedToResearch.stages.2.label>
+  <AssignedToResearch.stages.2.description>I really, really hate research!</AssignedToResearch.stages.2.description>
+  <AssignedToResearch.stages.3.label>assigned to research (Furious)</AssignedToResearch.stages.3.label>
+  <AssignedToResearch.stages.3.description>I can't believe I'm still assigned to research!</AssignedToResearch.stages.3.description>
+  <AssignedToResearch.stages.4.label>assigned to research (Mad)</AssignedToResearch.stages.4.label>
+  <AssignedToResearch.stages.4.description>If I'm assigned to research for one more minute, I swear I'm going to lose it!</AssignedToResearch.stages.4.description>
+  <AssignedToResearch.stages.5.label>was assigned to research</AssignedToResearch.stages.5.label>
+  <AssignedToResearch.stages.5.description>I'm still annoyed that I was assigned to research.</AssignedToResearch.stages.5.description>
+
+  <AssignedToSmithing.stages.0.label>assigned to smithing</AssignedToSmithing.stages.0.label>
+  <AssignedToSmithing.stages.0.description>I hate smithing.</AssignedToSmithing.stages.0.description>
+  <AssignedToSmithing.stages.1.label>assigned to smithing (Annoyed)</AssignedToSmithing.stages.1.label>
+  <AssignedToSmithing.stages.1.description>I really hate smithing.</AssignedToSmithing.stages.1.description>
+  <AssignedToSmithing.stages.2.label>assigned to smithing (Angry)</AssignedToSmithing.stages.2.label>
+  <AssignedToSmithing.stages.2.description>I really, really hate smithing!</AssignedToSmithing.stages.2.description>
+  <AssignedToSmithing.stages.3.label>assigned to smithing (Furious)</AssignedToSmithing.stages.3.label>
+  <AssignedToSmithing.stages.3.description>I can't believe I'm still assigned to smithing!</AssignedToSmithing.stages.3.description>
+  <AssignedToSmithing.stages.4.label>assigned to smithing (Mad)</AssignedToSmithing.stages.4.label>
+  <AssignedToSmithing.stages.4.description>If I'm assigned to smithing for one more minute, I swear I'm going to lose it!</AssignedToSmithing.stages.4.description>
+  <AssignedToSmithing.stages.5.label>was assigned to smithing</AssignedToSmithing.stages.5.label>
+  <AssignedToSmithing.stages.5.description>I'm still annoyed that I was assigned to smithing.</AssignedToSmithing.stages.5.description>
+
+  <AssignedToTailoring.stages.0.label>assigned to tailoring</AssignedToTailoring.stages.0.label>
+  <AssignedToTailoring.stages.0.description>I hate tailoring.</AssignedToTailoring.stages.0.description>
+  <AssignedToTailoring.stages.1.label>assigned to tailoring (Annoyed)</AssignedToTailoring.stages.1.label>
+  <AssignedToTailoring.stages.1.description>I really hate tailoring.</AssignedToTailoring.stages.1.description>
+  <AssignedToTailoring.stages.2.label>assigned to tailoring (Angry)</AssignedToTailoring.stages.2.label>
+  <AssignedToTailoring.stages.2.description>I really, really hate tailoring!</AssignedToTailoring.stages.2.description>
+  <AssignedToTailoring.stages.3.label>assigned to tailoring (Furious)</AssignedToTailoring.stages.3.label>
+  <AssignedToTailoring.stages.3.description>I can't believe I'm still assigned to tailoring!</AssignedToTailoring.stages.3.description>
+  <AssignedToTailoring.stages.4.label>assigned to tailoring (Mad)</AssignedToTailoring.stages.4.label>
+  <AssignedToTailoring.stages.4.description>If I'm assigned to tailoring for one more minute, I swear I'm going to lose it!</AssignedToTailoring.stages.4.description>
+  <AssignedToTailoring.stages.5.label>was assigned to tailoring</AssignedToTailoring.stages.5.label>
+  <AssignedToTailoring.stages.5.description>I'm still annoyed that I was assigned to tailoring.</AssignedToTailoring.stages.5.description>
+
+  <AssignedToWarden.stages.0.label>assigned to warden</AssignedToWarden.stages.0.label>
+  <AssignedToWarden.stages.0.description>I hate playing warden.</AssignedToWarden.stages.0.description>
+  <AssignedToWarden.stages.1.label>assigned to warden (Annoyed)</AssignedToWarden.stages.1.label>
+  <AssignedToWarden.stages.1.description>I really hate playing warden.</AssignedToWarden.stages.1.description>
+  <AssignedToWarden.stages.2.label>assigned to warden (Angry)</AssignedToWarden.stages.2.label>
+  <AssignedToWarden.stages.2.description>I really, really hate playing warden!</AssignedToWarden.stages.2.description>
+  <AssignedToWarden.stages.3.label>assigned to warden (Furious)</AssignedToWarden.stages.3.label>
+  <AssignedToWarden.stages.3.description>I can't believe I'm still assigned to play warden!</AssignedToWarden.stages.3.description>
+  <AssignedToWarden.stages.4.label>assigned to warden (Mad)</AssignedToWarden.stages.4.label>
+  <AssignedToWarden.stages.4.description>If I'm assigned to play warden for one more minute, I swear I'm going to lose it!</AssignedToWarden.stages.4.description>
+  <AssignedToWarden.stages.5.label>was assigned to warden</AssignedToWarden.stages.5.label>
+  <AssignedToWarden.stages.5.description>I'm still annoyed that I was assigned to play warden.</AssignedToWarden.stages.5.description>
+
+  <AssignedAWeapon.stages.0.label>assigned a weapon</AssignedAWeapon.stages.0.label>
+  <AssignedAWeapon.stages.0.description>I hate carrying a weapon.</AssignedAWeapon.stages.0.description>
+  <AssignedAWeapon.stages.1.label>assigned a weapon (Annoyed)</AssignedAWeapon.stages.1.label>
+  <AssignedAWeapon.stages.1.description>I really hate carrying a weapon.</AssignedAWeapon.stages.1.description>
+  <AssignedAWeapon.stages.2.label>assigned a weapon (Angry)</AssignedAWeapon.stages.2.label>
+  <AssignedAWeapon.stages.2.description>I really, really hate carrying a weapon!</AssignedAWeapon.stages.2.description>
+  <AssignedAWeapon.stages.3.label>assigned a weapon (Furious)</AssignedAWeapon.stages.3.label>
+  <AssignedAWeapon.stages.3.description>I can't believe I'm still assigned to carry a weapon!</AssignedAWeapon.stages.3.description>
+  <AssignedAWeapon.stages.4.label>assigned a weapon (Mad)</AssignedAWeapon.stages.4.label>
+  <AssignedAWeapon.stages.4.description>If I'm assigned to carry a weapon for one more minute, I swear I'm going to lose it! (Yeah, that's probably a bit ironic, but I don't care!)</AssignedAWeapon.stages.4.description>
+  <AssignedAWeapon.stages.5.label>was assigned a weapon</AssignedAWeapon.stages.5.label>
+  <AssignedAWeapon.stages.5.description>I'm still annoyed that I was assigned to carry a weapon.</AssignedAWeapon.stages.5.description>
+
+
+</LanguageData>
