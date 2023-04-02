@@ -1,215 +1,218 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<AssignedToArt.stages.0.label>分配到美術工作</AssignedToArt.stages.0.label>
-<AssignedToArt.stages.0.description>我討厭藝術。</AssignedToArt.stages.0.description>
-<AssignedToArt.stages.1.label>分配到美術工作（煩惱）</AssignedToArt.stages.1.label>
-<AssignedToArt.stages.1.description>我真的很討厭藝術。</AssignedToArt.stages.1.description>
-<AssignedToArt.stages.2.label>分配到美術工作（生氣）</AssignedToArt.stages.2.label>
-<AssignedToArt.stages.2.description>我真的、真的很討厭藝術！</AssignedToArt.stages.2.description>
-<AssignedToArt.stages.3.label>分配到美術工作（憤怒）</AssignedToArt.stages.3.label>
-<AssignedToArt.stages.3.description>我不敢相信我還被分配到藝術工作！</AssignedToArt.stages.3.description>
-<AssignedToArt.stages.4.label>分配到美術工作（生氣）</AssignedToArt.stages.4.label>
-<AssignedToArt.stages.4.description>如果我再被分配到美術工作一分鐘，我發誓我會失去理智！</AssignedToArt.stages.4.description>
-<AssignedToArt.stages.5.label>分配到美術工作（過去式）</AssignedToArt.stages.5.label>
-<AssignedToArt.stages.5.description>我仍然很煩惱我曾被分配到藝術工作。</AssignedToArt.stages.5.description>
+  <AssignedToArt.stages.0.label>雕刻任務</AssignedToArt.stages.0.label>
+  <AssignedToArt.stages.0.description>我討厭藝術。</AssignedToArt.stages.0.description>
+  <AssignedToArt.stages.1.label>雕刻任務（煩躁）</AssignedToArt.stages.1.label>
+  <AssignedToArt.stages.1.description>我真的討厭藝術。</AssignedToArt.stages.1.description>
+  <AssignedToArt.stages.2.label>雕刻任務（憤怒）</AssignedToArt.stages.2.label>
+  <AssignedToArt.stages.2.description>我非常非常討厭藝術！</AssignedToArt.stages.2.description>
+  <AssignedToArt.stages.3.label>雕刻任務（躁怒）</AssignedToArt.stages.3.label>
+  <AssignedToArt.stages.3.description>我不敢相信我還在做雕刻任務！</AssignedToArt.stages.3.description>
+  <AssignedToArt.stages.4.label>雕刻任務（瘋狂）</AssignedToArt.stages.4.label>
+  <AssignedToArt.stages.4.description>如果我再被分配到雕刻任務一分鐘，我發誓我會失控！</AssignedToArt.stages.4.description>
+  <AssignedToArt.stages.5.label>雕刻任務</AssignedToArt.stages.5.label>
+  <AssignedToArt.stages.5.description>我仍然煩躁著我雕刻任務。</AssignedToArt.stages.5.description>
 
-<AssignedToCleaning.stages.0.label>分配到清潔工作</AssignedToCleaning.stages.0.label>
-<AssignedToCleaning.stages.0.description>我討厭打掃。</AssignedToCleaning.stages.0.description>
-<AssignedToCleaning.stages.1.label>分配到清潔工作（過去式）</AssignedToCleaning.stages.1.label>
-<AssignedToCleaning.stages.1.description>我仍然很煩惱我曾被分配到清潔工作。</AssignedToCleaning.stages.1.description>
+  <AssignedToCleaning.stages.0.label>清潔任務</AssignedToCleaning.stages.0.label>
+  <AssignedToCleaning.stages.0.description>我討厭清潔。</AssignedToCleaning.stages.0.description>
+  <AssignedToCleaning.stages.1.label>清潔任務 (瘋狂)</AssignedToCleaning.stages.1.label>
+  <AssignedToCleaning.stages.1.description>如果我再被分配到清潔任務，我會氣炸。</AssignedToCleaning.stages.1.description>
 
-<AssignedToConstruction.stages.0.label>指派到建設</AssignedToConstruction.stages.0.label>
-<AssignedToConstruction.stages.0.description>我討厭建設。</AssignedToConstruction.stages.0.description>
-<AssignedToConstruction.stages.1.label>指派到建設（煩惱）</AssignedToConstruction.stages.1.label>
-<AssignedToConstruction.stages.1.description>我真的討厭建設。</AssignedToConstruction.stages.1.description>
-<AssignedToConstruction.stages.2.label>指派到建設（生氣）</AssignedToConstruction.stages.2.label>
-<AssignedToConstruction.stages.2.description>我真的、真的討厭建設！</AssignedToConstruction.stages.2.description>
-<AssignedToConstruction.stages.3.label>指派到建設（憤怒）</AssignedToConstruction.stages.3.label>
-<AssignedToConstruction.stages.3.description>我不敢相信我仍然被指派到建設！</AssignedToConstruction.stages.3.description>
-<AssignedToConstruction.stages.4.label>指派到建設（生氣）</AssignedToConstruction.stages.4.label>
-<AssignedToConstruction.stages.4.description>如果我再被指派到建設一分鐘，我發誓我會瘋了！</AssignedToConstruction.stages.4.description>
-<AssignedToConstruction.stages.5.label>被指派到建設</AssignedToConstruction.stages.5.label>
-<AssignedToConstruction.stages.5.description>我仍然煩惱被指派到建設。</AssignedToConstruction.stages.5.description>
+  <AssignedToConstruction.stages.0.label>建造任務</AssignedToConstruction.stages.0.label>
+  <AssignedToConstruction.stages.0.description>我討厭施工。</AssignedToConstruction.stages.0.description>
+  <AssignedToConstruction.stages.1.label>建造任務（煩躁）</AssignedToConstruction.stages.1.label>
+  <AssignedToConstruction.stages.1.description>我真的很討厭施工。</AssignedToConstruction.stages.1.description>
+  <AssignedToConstruction.stages.2.label>建造任務（憤怒）</AssignedToConstruction.stages.2.label>
+  <AssignedToConstruction.stages.2.description>我真的很，很討厭施工！</AssignedToConstruction.stages.2.description>
+  <AssignedToConstruction.stages.3.label>建造任務（躁怒）</AssignedToConstruction.stages.3.label>
+  <AssignedToConstruction.stages.3.description>我不敢相信我還建造任務！</AssignedToConstruction.stages.3.description>
+  <AssignedToConstruction.stages.4.label>建造任務（瘋狂）</AssignedToConstruction.stages.4.label>
+  <AssignedToConstruction.stages.4.description>如果我再被分配到建造任務一分鐘，我發誓我會瘋了！</AssignedToConstruction.stages.4.description>
+  <AssignedToConstruction.stages.5.label>建造任務過</AssignedToConstruction.stages.5.label>
+  <AssignedToConstruction.stages.5.description>我仍然很煩躁我建造任務。</AssignedToConstruction.stages.5.description>
 
-<AssignedToCooking.stages.0.label>分配到烹飪</AssignedToCooking.stages.0.label>
-<AssignedToCooking.stages.0.description>我討厭做飯。</AssignedToCooking.stages.0.description>
-<AssignedToCooking.stages.1.label>分配到烹飪（煩惱）</AssignedToCooking.stages.1.label>
-<AssignedToCooking.stages.1.description>我真的很討厭做飯。</AssignedToCooking.stages.1.description>
-<AssignedToCooking.stages.2.label>分配到烹飪（生氣）</AssignedToCooking.stages.2.label>
-<AssignedToCooking.stages.2.description>我真的、真的很討厭做飯！</AssignedToCooking.stages.2.description>
-<AssignedToCooking.stages.3.label>分配到烹飪（憤怒）</AssignedToCooking.stages.3.label>
-<AssignedToCooking.stages.3.description>我真不敢相信我還被分配到做飯！</AssignedToCooking.stages.3.description>
-<AssignedToCooking.stages.4.label>分配到烹飪（生氣）</AssignedToCooking.stages.4.label>
-<AssignedToCooking.stages.4.description>如果我再被分配做飯一分鐘，我發誓我會瘋掉！</AssignedToCooking.stages.4.description>
-<AssignedToCooking.stages.5.label>曾被分配到烹飪</AssignedToCooking.stages.5.label>
-<AssignedToCooking.stages.5.description>我仍然感到煩惱，因為我曾被分配到做飯。</AssignedToCooking.stages.5.description>
+  <AssignedToCooking.stages.0.label>廚房任務</AssignedToCooking.stages.0.label>
+  <AssignedToCooking.stages.0.description>我討厭烹飪。</AssignedToCooking.stages.0.description>
+  <AssignedToCooking.stages.1.label>廚房任務 (煩躁)</AssignedToCooking.stages.1.label>
+  <AssignedToCooking.stages.1.description>我真的很討厭烹飪。</AssignedToCooking.stages.1.description>
+  <AssignedToCooking.stages.2.label>廚房任務 (憤怒)</AssignedToCooking.stages.2.label>
+  <AssignedToCooking.stages.2.description>我真的非常非常討厭烹飪！</AssignedToCooking.stages.2.description>
+  <AssignedToCooking.stages.3.label>廚房任務 (躁怒)</AssignedToCooking.stages.3.label>
+  <AssignedToCooking.stages.3.description>我不敢相信我還在做烹飪任務！</AssignedToCooking.stages.3.description>
+  <AssignedToCooking.stages.4.label>廚房任務 (狂怒)</AssignedToCooking.stages.4.label>
+  <AssignedToCooking.stages.4.description>如果我再被分配到廚房任務一分鐘，我發誓我會瘋掉！</AssignedToCooking.stages.4.description>
+  <AssignedToCooking.stages.5.label>曾被分配廚房任務</AssignedToCooking.stages.5.label>
+  <AssignedToCooking.stages.5.description>我仍然為被分配廚房任務而感到煩躁。</AssignedToCooking.stages.5.description>
 
-<AssignedToCrafting.stages.0.label>被指派到製作</AssignedToCrafting.stages.0.label>
-<AssignedToCrafting.stages.0.description>我討厭製作。</AssignedToCrafting.stages.0.description>
-<AssignedToCrafting.stages.1.label>被指派到製作 (煩躁)</AssignedToCrafting.stages.1.label>
-<AssignedToCrafting.stages.1.description>我真的討厭製作。</AssignedToCrafting.stages.1.description>
-<AssignedToCrafting.stages.2.label>被指派到製作 (生氣)</AssignedToCrafting.stages.2.label>
-<AssignedToCrafting.stages.2.description>我真的、真的討厭製作！</AssignedToCrafting.stages.2.description>
-<AssignedToCrafting.stages.3.label>被指派到製作 (憤怒)</AssignedToCrafting.stages.3.label>
-<AssignedToCrafting.stages.3.description>我真不敢相信我還被指派到製作！</AssignedToCrafting.stages.3.description>
-<AssignedToCrafting.stages.4.label>被指派到製作 (生氣)</AssignedToCrafting.stages.4.label>
-<AssignedToCrafting.stages.4.description>如果我再被指派到製作一分鐘，我發誓我會瘋掉！</AssignedToCrafting.stages.4.description>
-<AssignedToCrafting.stages.5.label>曾被指派到製作</AssignedToCrafting.stages.5.label>
-<AssignedToCrafting.stages.5.description>我仍然煩惱自己曾被指派到製作。</AssignedToCrafting.stages.5.description>
+  <AssignedToCrafting.stages.0.label>工匠任務</AssignedToCrafting.stages.0.label>
+  <AssignedToCrafting.stages.0.description>我討厭製作任務。</AssignedToCrafting.stages.0.description>
+  <AssignedToCrafting.stages.1.label>工匠任務（煩躁）</AssignedToCrafting.stages.1.label>
+  <AssignedToCrafting.stages.1.description>我真的討厭製作任務。</AssignedToCrafting.stages.1.description>
+  <AssignedToCrafting.stages.2.label>工匠任務（憤怒）</AssignedToCrafting.stages.2.label>
+  <AssignedToCrafting.stages.2.description>我真的非常討厭製作任務！</AssignedToCrafting.stages.2.description>
+  <AssignedToCrafting.stages.3.label>工匠任務（躁怒）</AssignedToCrafting.stages.3.label>
+  <AssignedToCrafting.stages.3.description>我無法相信我仍然被分配製作任務！</AssignedToCrafting.stages.3.description>
+  <AssignedToCrafting.stages.4.label>工匠任務（瘋狂）</AssignedToCrafting.stages.4.label>
+  <AssignedToCrafting.stages.4.description>如果我再被分配到製作任務一分鐘，我發誓我會瘋掉！</AssignedToCrafting.stages.4.description>
+  <AssignedToCrafting.stages.5.label>曾經工匠任務</AssignedToCrafting.stages.5.label>
+  <AssignedToCrafting.stages.5.description>我仍然煩躁被分配到製作。</AssignedToCrafting.stages.5.description>
 
-<AssignedToDoctor.stages.0.label>分配給醫生</AssignedToDoctor.stages.0.label>
-<AssignedToDoctor.stages.0.description>我討厭扮演醫生。</AssignedToDoctor.stages.0.description>
-<AssignedToDoctor.stages.1.label>分配給醫生（煩躁）</AssignedToDoctor.stages.1.label>
-<AssignedToDoctor.stages.1.description>我真的討厭扮演醫生。</AssignedToDoctor.stages.1.description>
-<AssignedToDoctor.stages.2.label>分配給醫生（生氣）</AssignedToDoctor.stages.2.label>
-<AssignedToDoctor.stages.2.description>我真的非常討厭扮演醫生！</AssignedToDoctor.stages.2.description>
-<AssignedToDoctor.stages.3.label>分配給醫生（暴怒）</AssignedToDoctor.stages.3.label>
-<AssignedToDoctor.stages.3.description>我無法相信我仍然被指派扮演醫生！</AssignedToDoctor.stages.3.description>
-<AssignedToDoctor.stages.4.label>分配給醫生（瘋了）</AssignedToDoctor.stages.4.label>
-<AssignedToDoctor.stages.4.description>如果我再被指派扮演醫生一分鐘，我發誓我會瘋掉！</AssignedToDoctor.stages.4.description>
-<AssignedToDoctor.stages.5.label>曾被分配給醫生</AssignedToDoctor.stages.5.label>
-<AssignedToDoctor.stages.5.description>我仍然對被指派扮演醫生感到煩躁。</AssignedToDoctor.stages.5.description>
+  <AssignedToDoctor.stages.0.label>醫療任務</AssignedToDoctor.stages.0.label>
+  <AssignedToDoctor.stages.0.description>我討厭醫療任務。</AssignedToDoctor.stages.0.description>
+  <AssignedToDoctor.stages.1.label>醫療任務（煩躁）</AssignedToDoctor.stages.1.label>
+  <AssignedToDoctor.stages.1.description>我真的討厭醫療任務。</AssignedToDoctor.stages.1.description>
+  <AssignedToDoctor.stages.2.label>醫療任務（憤怒）</AssignedToDoctor.stages.2.label>
+  <AssignedToDoctor.stages.2.description>我真的、真的討厭醫療任務！</AssignedToDoctor.stages.2.description>
+  <AssignedToDoctor.stages.3.label>醫療任務（躁怒）</AssignedToDoctor.stages.3.label>
+  <AssignedToDoctor.stages.3.description>我不敢相信我還被分配去醫療任務！</AssignedToDoctor.stages.3.description>
+  <AssignedToDoctor.stages.4.label>醫療任務（瘋狂）</AssignedToDoctor.stages.4.label>
+  <AssignedToDoctor.stages.4.description>如果我再被分配到醫療任務一分鐘，我發誓我會瘋掉！</AssignedToDoctor.stages.4.description>
+  <AssignedToDoctor.stages.5.label>曾醫療任務</AssignedToDoctor.stages.5.label>
+  <AssignedToDoctor.stages.5.description>我仍然煩躁自己曾被分配醫療任務。</AssignedToDoctor.stages.5.description>
 
-  <AssignedToFirefighter.stages.0.label>assigned to firefighter</AssignedToFirefighter.stages.0.label>
-  <AssignedToFirefighter.stages.0.description>I hate firefighting.</AssignedToFirefighter.stages.0.description>
-  <AssignedToFirefighter.stages.1.label>assigned to firefighter (Annoyed)</AssignedToFirefighter.stages.1.label>
-  <AssignedToFirefighter.stages.1.description>I really hate firefighting.</AssignedToFirefighter.stages.1.description>
-  <AssignedToFirefighter.stages.2.label>assigned to firefighter (Angry)</AssignedToFirefighter.stages.2.label>
-  <AssignedToFirefighter.stages.2.description>I really, really hate firefighting!</AssignedToFirefighter.stages.2.description>
-  <AssignedToFirefighter.stages.3.label>assigned to firefighter (Furious)</AssignedToFirefighter.stages.3.label>
-  <AssignedToFirefighter.stages.3.description>I can't believe I'm still assigned to firefighting!</AssignedToFirefighter.stages.3.description>
-  <AssignedToFirefighter.stages.4.label>assigned to firefighter (Mad)</AssignedToFirefighter.stages.4.label>
-  <AssignedToFirefighter.stages.4.description>If I'm assigned to firefighting for one more minute, I swear I'm going to lose it!</AssignedToFirefighter.stages.4.description>
-  <AssignedToFirefighter.stages.5.label>was assigned to firefighter</AssignedToFirefighter.stages.5.label>
-  <AssignedToFirefighter.stages.5.description>I'm still annoyed that I was assigned to firefighting.</AssignedToFirefighter.stages.5.description>
+  <AssignedToFirefighter.stages.0.label>消防任務</AssignedToFirefighter.stages.0.label>
+  <AssignedToFirefighter.stages.0.description>我討厭消防工作。</AssignedToFirefighter.stages.0.description>
+  <AssignedToFirefighter.stages.1.label>消防任務（煩躁）</AssignedToFirefighter.stages.1.label>
+  <AssignedToFirefighter.stages.1.description>我真的很討厭消防工作。</AssignedToFirefighter.stages.1.description>
+  <AssignedToFirefighter.stages.2.label>消防任務（憤怒）</AssignedToFirefighter.stages.2.label>
+  <AssignedToFirefighter.stages.2.description>我真的、真的很討厭消防工作！</AssignedToFirefighter.stages.2.description>
+  <AssignedToFirefighter.stages.3.label>消防任務（躁怒）</AssignedToFirefighter.stages.3.label>
+  <AssignedToFirefighter.stages.3.description>我不敢相信我仍然被分配到消防工作！</AssignedToFirefighter.stages.3.description>
+  <AssignedToFirefighter.stages.4.label>消防任務（瘋狂）</AssignedToFirefighter.stages.4.label>
+  <AssignedToFirefighter.stages.4.description>如果我再被分配到消防工作一分鐘，我發誓我會瘋掉！</AssignedToFirefighter.stages.4.description>
+  <AssignedToFirefighter.stages.5.label>曾消防任務</AssignedToFirefighter.stages.5.label>
+  <AssignedToFirefighter.stages.5.description>我仍然很煩躁我曾被分配到消防工作。</AssignedToFirefighter.stages.5.description>
 
-  <AssignedToGrowing.stages.0.label>assigned to growing</AssignedToGrowing.stages.0.label>
-  <AssignedToGrowing.stages.0.description>I hate growing things.</AssignedToGrowing.stages.0.description>
-  <AssignedToGrowing.stages.1.label>assigned to growing (Annoyed)</AssignedToGrowing.stages.1.label>
-  <AssignedToGrowing.stages.1.description>I really hate growing things.</AssignedToGrowing.stages.1.description>
-  <AssignedToGrowing.stages.2.label>assigned to growing (Angry)</AssignedToGrowing.stages.2.label>
-  <AssignedToGrowing.stages.2.description>I really, really hate growing things!</AssignedToGrowing.stages.2.description>
-  <AssignedToGrowing.stages.3.label>assigned to growing (Furious)</AssignedToGrowing.stages.3.label>
-  <AssignedToGrowing.stages.3.description>I can't believe I'm still assigned to growing things!</AssignedToGrowing.stages.3.description>
-  <AssignedToGrowing.stages.4.label>assigned to growing (Mad)</AssignedToGrowing.stages.4.label>
-  <AssignedToGrowing.stages.4.description>If I'm assigned to growing things for one more minute, I swear I'm going to lose it!</AssignedToGrowing.stages.4.description>
-  <AssignedToGrowing.stages.5.label>was assigned to growing</AssignedToGrowing.stages.5.label>
-  <AssignedToGrowing.stages.5.description>I'm still annoyed that I was assigned to growing things.</AssignedToGrowing.stages.5.description>
-
-  <AssignedToHandling.stages.0.label>assigned to handling</AssignedToHandling.stages.0.label>
-  <AssignedToHandling.stages.0.description>I hate animals.</AssignedToHandling.stages.0.description>
-  <AssignedToHandling.stages.1.label>assigned to handling (Annoyed)</AssignedToHandling.stages.1.label>
-  <AssignedToHandling.stages.1.description>I really hate animals.</AssignedToHandling.stages.1.description>
-  <AssignedToHandling.stages.2.label>assigned to handling (Angry)</AssignedToHandling.stages.2.label>
-  <AssignedToHandling.stages.2.description>I really, really hate animals!</AssignedToHandling.stages.2.description>
-  <AssignedToHandling.stages.3.label>assigned to handling (Furious)</AssignedToHandling.stages.3.label>
-  <AssignedToHandling.stages.3.description>I can't believe I'm still assigned to handling animals!</AssignedToHandling.stages.3.description>
-  <AssignedToHandling.stages.4.label>assigned to handling (Mad)</AssignedToHandling.stages.4.label>
-  <AssignedToHandling.stages.4.description>If I'm assigned to handling animals for one more minute, I swear I'm going to lose it!</AssignedToHandling.stages.4.description>
-  <AssignedToHandling.stages.5.label>was assigned to handling</AssignedToHandling.stages.5.label>
-  <AssignedToHandling.stages.5.description>I'm still annoyed that I was assigned to handling animals.</AssignedToHandling.stages.5.description>
-
-  <AssignedToHauling.stages.0.label>assigned to hauling</AssignedToHauling.stages.0.label>
-  <AssignedToHauling.stages.0.description>I hate hauling.</AssignedToHauling.stages.0.description>
-  <AssignedToHauling.stages.1.label>was assigned to hauling</AssignedToHauling.stages.1.label>
-  <AssignedToHauling.stages.1.description>I'm still annoyed that I was assigned to hauling.</AssignedToHauling.stages.1.description>
-
-  <AssignedToHunting.stages.0.label>assigned to hunting</AssignedToHunting.stages.0.label>
-  <AssignedToHunting.stages.0.description>I hate hunting.</AssignedToHunting.stages.0.description>
-  <AssignedToHunting.stages.1.label>assigned to hunting (Annoyed)</AssignedToHunting.stages.1.label>
-  <AssignedToHunting.stages.1.description>I really hate hunting.</AssignedToHunting.stages.1.description>
-  <AssignedToHunting.stages.2.label>assigned to hunting (Angry)</AssignedToHunting.stages.2.label>
-  <AssignedToHunting.stages.2.description>I really, really hate hunting!</AssignedToHunting.stages.2.description>
-  <AssignedToHunting.stages.3.label>assigned to hunting (Furious)</AssignedToHunting.stages.3.label>
-  <AssignedToHunting.stages.3.description>I can't believe I'm still assigned to hunting!</AssignedToHunting.stages.3.description>
-  <AssignedToHunting.stages.4.label>assigned to hunting (Mad)</AssignedToHunting.stages.4.label>
-  <AssignedToHunting.stages.4.description>If I'm assigned to hunting for one more minute, I swear I'm going to lose it!</AssignedToHunting.stages.4.description>
-  <AssignedToHunting.stages.5.label>was assigned to hunting</AssignedToHunting.stages.5.label>
-  <AssignedToHunting.stages.5.description>I'm still annoyed that I was assigned to hunting.</AssignedToHunting.stages.5.description>
-
-  <AssignedToMining.stages.0.label>assigned to mining</AssignedToMining.stages.0.label>
-  <AssignedToMining.stages.0.description>I hate mining.</AssignedToMining.stages.0.description>
-  <AssignedToMining.stages.1.label>assigned to mining (Annoyed)</AssignedToMining.stages.1.label>
-  <AssignedToMining.stages.1.description>I really hate mining.</AssignedToMining.stages.1.description>
-  <AssignedToMining.stages.2.label>assigned to mining (Angry)</AssignedToMining.stages.2.label>
-  <AssignedToMining.stages.2.description>I really, really hate mining!</AssignedToMining.stages.2.description>
-  <AssignedToMining.stages.3.label>assigned to mining (Furious)</AssignedToMining.stages.3.label>
-  <AssignedToMining.stages.3.description>I can't believe I'm still assigned to mining!</AssignedToMining.stages.3.description>
-  <AssignedToMining.stages.4.label>assigned to mining (Mad)</AssignedToMining.stages.4.label>
-  <AssignedToMining.stages.4.description>If I'm assigned to mining for one more minute, I swear I'm going to lose it!</AssignedToMining.stages.4.description>
-  <AssignedToMining.stages.5.label>was assigned to mining</AssignedToMining.stages.5.label>
-  <AssignedToMining.stages.5.description>I'm still annoyed that I was assigned to mining.</AssignedToMining.stages.5.description>
-
-  <AssignedToPlantCutting.stages.0.label>assigned to plant cutting</AssignedToPlantCutting.stages.0.label>
-  <AssignedToPlantCutting.stages.0.description>I hate plant cutting.</AssignedToPlantCutting.stages.0.description>
-  <AssignedToPlantCutting.stages.1.label>was assigned to plant cutting</AssignedToPlantCutting.stages.1.label>
-  <AssignedToPlantCutting.stages.1.description>I'm still annoyed that I was assigned to plant cutting.</AssignedToPlantCutting.stages.1.description>
-
-  <AssignedToResearch.stages.0.label>assigned to research</AssignedToResearch.stages.0.label>
-  <AssignedToResearch.stages.0.description>I hate research.</AssignedToResearch.stages.0.description>
-  <AssignedToResearch.stages.1.label>assigned to research (Annoyed)</AssignedToResearch.stages.1.label>
-  <AssignedToResearch.stages.1.description>I really hate research.</AssignedToResearch.stages.1.description>
-  <AssignedToResearch.stages.2.label>assigned to research (Angry)</AssignedToResearch.stages.2.label>
-  <AssignedToResearch.stages.2.description>I really, really hate research!</AssignedToResearch.stages.2.description>
-  <AssignedToResearch.stages.3.label>assigned to research (Furious)</AssignedToResearch.stages.3.label>
-  <AssignedToResearch.stages.3.description>I can't believe I'm still assigned to research!</AssignedToResearch.stages.3.description>
-  <AssignedToResearch.stages.4.label>assigned to research (Mad)</AssignedToResearch.stages.4.label>
-  <AssignedToResearch.stages.4.description>If I'm assigned to research for one more minute, I swear I'm going to lose it!</AssignedToResearch.stages.4.description>
-  <AssignedToResearch.stages.5.label>was assigned to research</AssignedToResearch.stages.5.label>
-  <AssignedToResearch.stages.5.description>I'm still annoyed that I was assigned to research.</AssignedToResearch.stages.5.description>
-
-  <AssignedToSmithing.stages.0.label>assigned to smithing</AssignedToSmithing.stages.0.label>
-  <AssignedToSmithing.stages.0.description>I hate smithing.</AssignedToSmithing.stages.0.description>
-  <AssignedToSmithing.stages.1.label>assigned to smithing (Annoyed)</AssignedToSmithing.stages.1.label>
-  <AssignedToSmithing.stages.1.description>I really hate smithing.</AssignedToSmithing.stages.1.description>
-  <AssignedToSmithing.stages.2.label>assigned to smithing (Angry)</AssignedToSmithing.stages.2.label>
-  <AssignedToSmithing.stages.2.description>I really, really hate smithing!</AssignedToSmithing.stages.2.description>
-  <AssignedToSmithing.stages.3.label>assigned to smithing (Furious)</AssignedToSmithing.stages.3.label>
-  <AssignedToSmithing.stages.3.description>I can't believe I'm still assigned to smithing!</AssignedToSmithing.stages.3.description>
-  <AssignedToSmithing.stages.4.label>assigned to smithing (Mad)</AssignedToSmithing.stages.4.label>
-  <AssignedToSmithing.stages.4.description>If I'm assigned to smithing for one more minute, I swear I'm going to lose it!</AssignedToSmithing.stages.4.description>
-  <AssignedToSmithing.stages.5.label>was assigned to smithing</AssignedToSmithing.stages.5.label>
-  <AssignedToSmithing.stages.5.description>I'm still annoyed that I was assigned to smithing.</AssignedToSmithing.stages.5.description>
-
-  <AssignedToTailoring.stages.0.label>assigned to tailoring</AssignedToTailoring.stages.0.label>
-  <AssignedToTailoring.stages.0.description>I hate tailoring.</AssignedToTailoring.stages.0.description>
-  <AssignedToTailoring.stages.1.label>assigned to tailoring (Annoyed)</AssignedToTailoring.stages.1.label>
-  <AssignedToTailoring.stages.1.description>I really hate tailoring.</AssignedToTailoring.stages.1.description>
-  <AssignedToTailoring.stages.2.label>assigned to tailoring (Angry)</AssignedToTailoring.stages.2.label>
-  <AssignedToTailoring.stages.2.description>I really, really hate tailoring!</AssignedToTailoring.stages.2.description>
-  <AssignedToTailoring.stages.3.label>assigned to tailoring (Furious)</AssignedToTailoring.stages.3.label>
-  <AssignedToTailoring.stages.3.description>I can't believe I'm still assigned to tailoring!</AssignedToTailoring.stages.3.description>
-  <AssignedToTailoring.stages.4.label>assigned to tailoring (Mad)</AssignedToTailoring.stages.4.label>
-  <AssignedToTailoring.stages.4.description>If I'm assigned to tailoring for one more minute, I swear I'm going to lose it!</AssignedToTailoring.stages.4.description>
-  <AssignedToTailoring.stages.5.label>was assigned to tailoring</AssignedToTailoring.stages.5.label>
-  <AssignedToTailoring.stages.5.description>I'm still annoyed that I was assigned to tailoring.</AssignedToTailoring.stages.5.description>
+  <AssignedToGrowing.stages.0.label>種植任務</AssignedToGrowing.stages.0.label>
+  <AssignedToGrowing.stages.0.description>我討厭種植工作。</AssignedToGrowing.stages.0.description>
+  <AssignedToGrowing.stages.1.label>種植任務 (煩躁)</AssignedToGrowing.stages.1.label>
+  <AssignedToGrowing.stages.1.description>我真的討厭種植工作。</AssignedToGrowing.stages.1.description>
+  <AssignedToGrowing.stages.2.label>種植任務 (憤怒)</AssignedToGrowing.stages.2.label>
+  <AssignedToGrowing.stages.2.description>我真的、真的討厭種植工作！</AssignedToGrowing.stages.2.description>
+  <AssignedToGrowing.stages.3.label>種植任務 (躁怒)</AssignedToGrowing.stages.3.label>
+  <AssignedToGrowing.stages.3.description>我無法相信我仍然被分配種植工作！</AssignedToGrowing.stages.3.description>
+  <AssignedToGrowing.stages.4.label>種植任務 (瘋狂)</AssignedToGrowing.stages.4.label>
+  <AssignedToGrowing.stages.4.description>如果我再被分配到種植工作一分鐘，我發誓我會瘋掉！</AssignedToGrowing.stages.4.description>
+  <AssignedToGrowing.stages.5.label>曾經被分配到種植任務</AssignedToGrowing.stages.5.label>
+  <AssignedToGrowing.stages.5.description>我仍然煩躁著曾經被分配到種植工作。</AssignedToGrowing.stages.5.description>
 
 
-<AssignedToWarden.stages.0.label>被分配為獄卒</AssignedToWarden.stages.0.label>
-<AssignedToWarden.stages.0.description>我討厭當獄卒。</AssignedToWarden.stages.0.description>
-<AssignedToWarden.stages.1.label>被分配為獄卒 (煩惱)</AssignedToWarden.stages.1.label>
-<AssignedToWarden.stages.1.description>我真的討厭當獄卒。</AssignedToWarden.stages.1.description>
-<AssignedToWarden.stages.2.label>被分配為獄卒 (生氣)</AssignedToWarden.stages.2.label>
-<AssignedToWarden.stages.2.description>我非常非常討厭當獄卒！</AssignedToWarden.stages.2.description>
-<AssignedToWarden.stages.3.label>被分配為獄卒 (憤怒)</AssignedToWarden.stages.3.label>
-<AssignedToWarden.stages.3.description>我真不敢相信我仍然被分配當獄卒！</AssignedToWarden.stages.3.description>
-<AssignedToWarden.stages.4.label>被分配為獄卒 (發狂)</AssignedToWarden.stages.4.label>
-<AssignedToWarden.stages.4.description>如果我還要當獄卒一分鐘，我發誓我會瘋掉！</AssignedToWarden.stages.4.description>
-<AssignedToWarden.stages.5.label>曾被分配為獄卒</AssignedToWarden.stages.5.label>
-<AssignedToWarden.stages.5.description>我仍然煩惱自己曾被分配為獄卒。</AssignedToWarden.stages.5.description>
+  <AssignedToHandling.stages.0.label>畜牧任務</AssignedToHandling.stages.0.label>
+  <AssignedToHandling.stages.0.description>我討厭動物。</AssignedToHandling.stages.0.description>
+  <AssignedToHandling.stages.1.label>畜牧任務 (煩躁)</AssignedToHandling.stages.1.label>
+  <AssignedToHandling.stages.1.description>我真的很討厭動物。</AssignedToHandling.stages.1.description>
+  <AssignedToHandling.stages.2.label>畜牧任務 (憤怒)</AssignedToHandling.stages.2.label>
+  <AssignedToHandling.stages.2.description>我真的、真的很討厭動物！</AssignedToHandling.stages.2.description>
+  <AssignedToHandling.stages.3.label>畜牧任務 (躁怒)</AssignedToHandling.stages.3.label>
+  <AssignedToHandling.stages.3.description>我真不敢相信我還在照顧動物！</AssignedToHandling.stages.3.description>
+  <AssignedToHandling.stages.4.label>畜牧任務 (瘋狂)</AssignedToHandling.stages.4.label>
+  <AssignedToHandling.stages.4.description>如果我再被分配到畜牧任務一分鐘，我發誓我會瘋掉！</AssignedToHandling.stages.4.description>
+  <AssignedToHandling.stages.5.label>曾被畜牧任務</AssignedToHandling.stages.5.label>
+  <AssignedToHandling.stages.5.description>我仍然很煩躁自己曾經被分配到畜牧任務。</AssignedToHandling.stages.5.description>
 
-<AssignedAWeapon.stages.0.label>被分配武器</AssignedAWeapon.stages.0.label>
-<AssignedAWeapon.stages.0.description>我討厭攜帶武器。</AssignedAWeapon.stages.0.description>
-<AssignedAWeapon.stages.1.label>被分配武器（煩惱）</AssignedAWeapon.stages.1.label>
-<AssignedAWeapon.stages.1.description>我真的討厭攜帶武器。</AssignedAWeapon.stages.1.description>
-<AssignedAWeapon.stages.2.label>被分配武器（生氣）</AssignedAWeapon.stages.2.label>
-<AssignedAWeapon.stages.2.description>我真的、真的討厭攜帶武器！</AssignedAWeapon.stages.2.description>
-<AssignedAWeapon.stages.3.label>被分配武器（憤怒）</AssignedAWeapon.stages.3.label>
-<AssignedAWeapon.stages.3.description>我不能相信我仍然被指派攜帶武器！</AssignedAWeapon.stages.3.description>
-<AssignedAWeapon.stages.4.label>被分配武器（生氣）</AssignedAWeapon.stages.4.label>
-<AssignedAWeapon.stages.4.description>如果我再被指派攜帶武器一分鐘，我發誓我要瘋了！（是啊，這可能有點諷刺，但我不在乎！）</AssignedAWeapon.stages.4.description>
-<AssignedAWeapon.stages.5.label>被分配武器</AssignedAWeapon.stages.5.label>
-<AssignedAWeapon.stages.5.description>我仍然為被指派攜帶武器感到煩惱。</AssignedAWeapon.stages.5.description>
+  <AssignedToHauling.stages.0.label>搬運任務</AssignedToHauling.stages.0.label>
+  <AssignedToHauling.stages.0.description>我討厭搬運。</AssignedToHauling.stages.0.description>
+  <AssignedToHauling.stages.1.label>搬運任務過了</AssignedToHauling.stages.1.label>
+  <AssignedToHauling.stages.1.description>我仍然很瘋狂我被指派去搬運。</AssignedToHauling.stages.1.description>
+
+  <AssignedToHunting.stages.0.label>狩獵任務</AssignedToHunting.stages.0.label>
+  <AssignedToHunting.stages.0.description>我討厭狩獵。</AssignedToHunting.stages.0.description>
+  <AssignedToHunting.stages.1.label>狩獵任務（煩躁）</AssignedToHunting.stages.1.label>
+  <AssignedToHunting.stages.1.description>我真的很討厭狩獵。</AssignedToHunting.stages.1.description>
+  <AssignedToHunting.stages.2.label>狩獵任務（憤怒）</AssignedToHunting.stages.2.label>
+  <AssignedToHunting.stages.2.description>我真的非常非常討厭狩獵！</AssignedToHunting.stages.2.description>
+  <AssignedToHunting.stages.3.label>狩獵任務（躁怒）</AssignedToHunting.stages.3.label>
+  <AssignedToHunting.stages.3.description>我不敢相信我還被分配到狩獵任務！</AssignedToHunting.stages.3.description>
+  <AssignedToHunting.stages.4.label>狩獵任務（狂怒）</AssignedToHunting.stages.4.label>
+  <AssignedToHunting.stages.4.description>如果我再被分配到狩獵任務一分鐘，我發誓我會瘋掉！</AssignedToHunting.stages.4.description>
+  <AssignedToHunting.stages.5.label>曾狩獵任務</AssignedToHunting.stages.5.label>
+  <AssignedToHunting.stages.5.description>我仍然很煩躁自己狩獵任務。</AssignedToHunting.stages.5.description>
+
+  <AssignedToMining.stages.0.label>開採任務</AssignedToMining.stages.0.label>
+  <AssignedToMining.stages.0.description>我討厭開採。</AssignedToMining.stages.0.description>
+  <AssignedToMining.stages.1.label>開採任務（煩躁）</AssignedToMining.stages.1.label>
+  <AssignedToMining.stages.1.description>我真的討厭開採。</AssignedToMining.stages.1.description>
+  <AssignedToMining.stages.2.label>開採任務（憤怒）</AssignedToMining.stages.2.label>
+  <AssignedToMining.stages.2.description>我真的、真的討厭開採！</AssignedToMining.stages.2.description>
+  <AssignedToMining.stages.3.label>開採任務（躁怒）</AssignedToMining.stages.3.label>
+  <AssignedToMining.stages.3.description>我不敢相信我還在開採！</AssignedToMining.stages.3.description>
+  <AssignedToMining.stages.4.label>開採任務（瘋狂）</AssignedToMining.stages.4.label>
+  <AssignedToMining.stages.4.description>如果我再被分配到開採一分鐘，我發誓我會瘋掉！</AssignedToMining.stages.4.description>
+  <AssignedToMining.stages.5.label>曾被分配開採任務</AssignedToMining.stages.5.label>
+  <AssignedToMining.stages.5.description>我仍然對被分配開採任務感到煩躁。</AssignedToMining.stages.5.description>
+
+  <AssignedToPlantCutting.stages.0.label>採收任務</AssignedToPlantCutting.stages.0.label>
+  <AssignedToPlantCutting.stages.0.description>我討厭砍植物。</AssignedToPlantCutting.stages.0.description>
+  <AssignedToPlantCutting.stages.1.label>採收任務</AssignedToPlantCutting.stages.1.label>
+  <AssignedToPlantCutting.stages.1.description>我仍然很煩躁自己採收任務。</AssignedToPlantCutting.stages.1.description>
+
+  <AssignedToResearch.stages.0.label>研究任務</AssignedToResearch.stages.0.label>
+  <AssignedToResearch.stages.0.description>我討厭研究。</AssignedToResearch.stages.0.description>
+  <AssignedToResearch.stages.1.label>研究任務（煩躁）</AssignedToResearch.stages.1.label>
+  <AssignedToResearch.stages.1.description>我真的討厭研究。</AssignedToResearch.stages.1.description>
+  <AssignedToResearch.stages.2.label>研究任務（憤怒）</AssignedToResearch.stages.2.label>
+  <AssignedToResearch.stages.2.description>我真的、真的討厭研究！</AssignedToResearch.stages.2.description>
+  <AssignedToResearch.stages.3.label>研究任務（躁怒）</AssignedToResearch.stages.3.label>
+  <AssignedToResearch.stages.3.description>我不敢相信我還研究任務！</AssignedToResearch.stages.3.description>
+  <AssignedToResearch.stages.4.label>研究任務（瘋狂）</AssignedToResearch.stages.4.label>
+  <AssignedToResearch.stages.4.description>如果我再被分配到研究任務一分鐘，我發誓我要發狂！</AssignedToResearch.stages.4.description>
+  <AssignedToResearch.stages.5.label>曾經研究任務</AssignedToResearch.stages.5.label>
+  <AssignedToResearch.stages.5.description>我仍然很煩躁我曾經研究任務。</AssignedToResearch.stages.5.description>
+
+
+  <AssignedToSmithing.stages.0.label>鍛造任務</AssignedToSmithing.stages.0.label>
+  <AssignedToSmithing.stages.0.description>我討厭鍛造。</AssignedToSmithing.stages.0.description>
+  <AssignedToSmithing.stages.1.label>鍛造任務（煩躁）</AssignedToSmithing.stages.1.label>
+  <AssignedToSmithing.stages.1.description>我真的很討厭鍛造。</AssignedToSmithing.stages.1.description>
+  <AssignedToSmithing.stages.2.label>鍛造任務（憤怒）</AssignedToSmithing.stages.2.label>
+  <AssignedToSmithing.stages.2.description>我真的、真的很討厭鍛造！</AssignedToSmithing.stages.2.description>
+  <AssignedToSmithing.stages.3.label>鍛造任務（躁怒）</AssignedToSmithing.stages.3.label>
+  <AssignedToSmithing.stages.3.description>我真不敢相信我還在鍛造任務！</AssignedToSmithing.stages.3.description>
+  <AssignedToSmithing.stages.4.label>鍛造任務（瘋狂）</AssignedToSmithing.stages.4.label>
+  <AssignedToSmithing.stages.4.description>如果我再被分配到鍛造任務一分鐘，我發誓我會瘋掉！</AssignedToSmithing.stages.4.description>
+  <AssignedToSmithing.stages.5.label>鍛造任務（過去式）</AssignedToSmithing.stages.5.label>
+  <AssignedToSmithing.stages.5.description>我仍然很瘋狂我鍛造任務。</AssignedToSmithing.stages.5.description>
+
+  <AssignedToTailoring.stages.0.label>裁縫任務</AssignedToTailoring.stages.0.label>
+  <AssignedToTailoring.stages.0.description>我討厭裁縫。</AssignedToTailoring.stages.0.description>
+  <AssignedToTailoring.stages.1.label>裁縫任務（煩躁）</AssignedToTailoring.stages.1.label>
+  <AssignedToTailoring.stages.1.description>我真的很討厭裁縫。</AssignedToTailoring.stages.1.description>
+  <AssignedToTailoring.stages.2.label>裁縫任務（憤怒）</AssignedToTailoring.stages.2.label>
+  <AssignedToTailoring.stages.2.description>我真的、真的很討厭裁縫！</AssignedToTailoring.stages.2.description>
+  <AssignedToTailoring.stages.3.label>裁縫任務（躁怒）</AssignedToTailoring.stages.3.label>
+  <AssignedToTailoring.stages.3.description>我真不敢相信我還在裁縫任務！</AssignedToTailoring.stages.3.description>
+  <AssignedToTailoring.stages.4.label>裁縫任務（瘋狂）</AssignedToTailoring.stages.4.label>
+  <AssignedToTailoring.stages.4.description>如果我再被分配到裁縫任務一分鐘，我發誓我會失去理智！</AssignedToTailoring.stages.4.description>
+  <AssignedToTailoring.stages.5.label>曾經裁縫任務</AssignedToTailoring.stages.5.label>
+  <AssignedToTailoring.stages.5.description>我仍然煩躁我曾被裁縫任務。</AssignedToTailoring.stages.5.description>
+
+  <AssignedToWarden.stages.0.label>看守任務</AssignedToWarden.stages.0.label>
+  <AssignedToWarden.stages.0.description>我討厭當獄卒。</AssignedToWarden.stages.0.description>
+  <AssignedToWarden.stages.1.label>看守任務 (煩躁)</AssignedToWarden.stages.1.label>
+  <AssignedToWarden.stages.1.description>我真的很討厭當獄卒。</AssignedToWarden.stages.1.description>
+  <AssignedToWarden.stages.2.label>看守任務 (憤怒)</AssignedToWarden.stages.2.label>
+  <AssignedToWarden.stages.2.description>我真的非常非常討厭當獄卒！</AssignedToWarden.stages.2.description>
+  <AssignedToWarden.stages.3.label>看守任務 (躁怒)</AssignedToWarden.stages.3.label>
+  <AssignedToWarden.stages.3.description>我真不敢相信我還被分配當獄卒！</AssignedToWarden.stages.3.description>
+  <AssignedToWarden.stages.4.label>看守任務 (瘋狂)</AssignedToWarden.stages.4.label>
+  <AssignedToWarden.stages.4.description>如果我再被分配當獄卒一分鐘，我發誓我會瘋掉！</AssignedToWarden.stages.4.description>
+  <AssignedToWarden.stages.5.label>曾看守任務</AssignedToWarden.stages.5.label>
+  <AssignedToWarden.stages.5.description>我仍然煩躁著曾經被分配當獄卒。</AssignedToWarden.stages.5.description>
+
+
+  <AssignedAWeapon.stages.0.label>持有武器</AssignedAWeapon.stages.0.label>
+  <AssignedAWeapon.stages.0.description>我討厭拿著武器。</AssignedAWeapon.stages.0.description>
+  <AssignedAWeapon.stages.1.label>持有武器（煩躁）</AssignedAWeapon.stages.1.label>
+  <AssignedAWeapon.stages.1.description>我真的很討厭拿著武器。</AssignedAWeapon.stages.1.description>
+  <AssignedAWeapon.stages.2.label>持有武器（憤怒）</AssignedAWeapon.stages.2.label>
+  <AssignedAWeapon.stages.2.description>我真的非常非常討厭拿著武器！</AssignedAWeapon.stages.2.description>
+  <AssignedAWeapon.stages.3.label>持有武器（躁怒）</AssignedAWeapon.stages.3.label>
+  <AssignedAWeapon.stages.3.description>我不敢相信我還拿著武器！</AssignedAWeapon.stages.3.description>
+  <AssignedAWeapon.stages.4.label>持有武器（瘋狂）</AssignedAWeapon.stages.4.label>
+  <AssignedAWeapon.stages.4.description>如果我再拿著武器一分鐘，我發誓我會失控！（是的，這可能有點諷刺，但我不在乎！）</AssignedAWeapon.stages.4.description>
+  <AssignedAWeapon.stages.5.label>持有武器</AssignedAWeapon.stages.5.label>
+  <AssignedAWeapon.stages.5.description>我仍然為被迫拿著武器而煩躁。</AssignedAWeapon.stages.5.description>
+
 
 </LanguageData>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HatesDumbLabor.degreeDatas.0.label>hates dumb labor</HatesDumbLabor.degreeDatas.0.label>
-  <HatesDumbLabor.degreeDatas.0.description>[PAWN_nameDef] detests manual labor, feeling that tasks such as cleaning and hauling are beneath [PAWN_objective]. [PAWN_pronoun] will perform such tasks more slowly than others would, and will also carry less per load when required to haul.</HatesDumbLabor.degreeDatas.0.description>
+  <HatesDumbLabor.degreeDatas.0.label>厭惡勞動</HatesDumbLabor.degreeDatas.0.label>
+  <HatesDumbLabor.degreeDatas.0.description>[PAWN_nameDef]對清潔和搬運等任務深感厭惡。因此，[PAWN_objective]做這些任務的速度會比其他人慢，且在搬運時每次搬的物品數量也會減少。</HatesDumbLabor.degreeDatas.0.description>
 
 
 </LanguageData>
